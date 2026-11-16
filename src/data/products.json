@@ -1,0 +1,5481 @@
+[
+ {
+  "id": "cgt-tube",
+  "brand": "caspian",
+  "name": "TUBE",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-tube.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 234,
+    "d": 72,
+    "mass": 560
+   },
+   {
+    "ml": 700,
+    "h": 261,
+    "d": 80,
+    "mass": 780
+   },
+   {
+    "ml": 1000,
+    "h": 290,
+    "d": 90,
+    "mass": 960
+   }
+  ]
+ },
+ {
+  "id": "cgt-classic",
+  "brand": "caspian",
+  "name": "CLASSIC",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-classic.webp",
+  "variants": [
+   {
+    "ml": 350,
+    "h": 246,
+    "d": 60,
+    "mass": 300
+   },
+   {
+    "ml": 500,
+    "h": 281,
+    "d": 65,
+    "mass": 375
+   },
+   {
+    "ml": 700,
+    "h": 320,
+    "d": 72,
+    "mass": 490
+   }
+  ]
+ },
+ {
+  "id": "cgt-top",
+  "brand": "caspian",
+  "name": "TOP",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-top.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 223,
+    "d": 66,
+    "mass": 510
+   },
+   {
+    "ml": 700,
+    "h": 247,
+    "d": 73,
+    "mass": 635
+   },
+   {
+    "ml": 1000,
+    "h": 275,
+    "d": 82,
+    "mass": 810
+   }
+  ]
+ },
+ {
+  "id": "cgt-helsinki",
+  "brand": "caspian",
+  "name": "HELSINKI",
+  "cat": "spirits",
+  "tier": "premium",
+  "image": "cg-helsinki.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 279,
+    "d": 67,
+    "mass": 535
+   }
+  ]
+ },
+ {
+  "id": "cgt-neva",
+  "brand": "caspian",
+  "name": "NEVA",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-neva.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 280,
+    "d": 63,
+    "mass": 585
+   },
+   {
+    "ml": 700,
+    "h": 311,
+    "d": 71,
+    "mass": 810
+   }
+  ]
+ },
+ {
+  "id": "cgt-avangard",
+  "brand": "caspian",
+  "name": "AVANGARD",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-avangard.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 283,
+    "d": 66,
+    "mass": 500
+   },
+   {
+    "ml": 700,
+    "h": 312,
+    "d": 73,
+    "mass": 625
+   },
+   {
+    "ml": 1000,
+    "h": 342,
+    "d": 62,
+    "mass": 796
+   }
+  ]
+ },
+ {
+  "id": "cgt-evro-350",
+  "brand": "caspian",
+  "name": "EVRO 350",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-evro-350.webp",
+  "variants": [
+   {
+    "ml": 350,
+    "h": 96,
+    "d": 77,
+    "mass": 230
+   }
+  ]
+ },
+ {
+  "id": "cgt-arina",
+  "brand": "caspian",
+  "name": "ARINA",
+  "cat": "spirits",
+  "tier": "premium",
+  "image": "cg-arina.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 241,
+    "d": 54,
+    "mass": 360
+   },
+   {
+    "ml": 500,
+    "h": 296,
+    "d": 67,
+    "mass": 630
+   },
+   {
+    "ml": 700,
+    "h": 325,
+    "d": 65,
+    "mass": 810
+   },
+   {
+    "ml": 1000,
+    "h": 346,
+    "d": 75,
+    "mass": 950
+   }
+  ]
+ },
+ {
+  "id": "cgt-vesna",
+  "brand": "caspian",
+  "name": "VESNA",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-vesna.webp",
+  "variants": [
+   {
+    "ml": 100,
+    "h": 170,
+    "d": 39,
+    "mass": 125
+   },
+   {
+    "ml": 500,
+    "h": 292,
+    "d": 63,
+    "mass": 400
+   }
+  ]
+ },
+ {
+  "id": "cgt-shtof",
+  "brand": "caspian",
+  "name": "SHTOF",
+  "cat": "spirits",
+  "tier": "premium",
+  "image": "cg-shtof.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 233,
+    "d": 91,
+    "mass": 480
+   }
+  ]
+ },
+ {
+  "id": "cgt-deboss",
+  "brand": "caspian",
+  "name": "DEBOSS",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-deboss.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 269,
+    "d": 67,
+    "mass": 525
+   },
+   {
+    "ml": 700,
+    "h": 298,
+    "d": 75,
+    "mass": 650
+   },
+   {
+    "ml": 1000,
+    "h": 320,
+    "d": 83,
+    "mass": 845
+   }
+  ]
+ },
+ {
+  "id": "cgt-keg",
+  "brand": "caspian",
+  "name": "KEG",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-keg.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 280,
+    "d": 67,
+    "mass": 520
+   },
+   {
+    "ml": 700,
+    "h": 311,
+    "d": 76,
+    "mass": 655
+   },
+   {
+    "ml": 1000,
+    "h": 346,
+    "d": 85,
+    "mass": 820
+   }
+  ]
+ },
+ {
+  "id": "cgt-altai",
+  "brand": "caspian",
+  "name": "ALTAI",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-altai.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 286,
+    "d": 64,
+    "mass": 465
+   },
+   {
+    "ml": 700,
+    "h": 308,
+    "d": 76,
+    "mass": 750
+   },
+   {
+    "ml": 1000,
+    "h": 342,
+    "d": 84,
+    "mass": 960
+   }
+  ]
+ },
+ {
+  "id": "cgt-brendi-ii",
+  "brand": "caspian",
+  "name": "BRENDI II",
+  "cat": "spirits",
+  "tier": "premium",
+  "image": "cg-brendi-ii.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 286,
+    "d": 70,
+    "mass": 425
+   }
+  ]
+ },
+ {
+  "id": "cgt-rosa",
+  "brand": "caspian",
+  "name": "ROSA",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-rosa.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 245,
+    "d": 72,
+    "mass": 290
+   },
+   {
+    "ml": 750,
+    "h": 266,
+    "d": 84,
+    "mass": 405
+   }
+  ]
+ },
+ {
+  "id": "cgt-spi",
+  "brand": "caspian",
+  "name": "SPI",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-spi.webp",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 302,
+    "d": 86,
+    "mass": 560
+   }
+  ]
+ },
+ {
+  "id": "cgt-gradus",
+  "brand": "caspian",
+  "name": "GRADUS",
+  "cat": "spirits",
+  "tier": "premium",
+  "image": "cg-gradus.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 214,
+    "d": 80,
+    "mass": 570
+   },
+   {
+    "ml": 700,
+    "h": 242,
+    "d": 89,
+    "mass": 750
+   },
+   {
+    "ml": 1000,
+    "h": 266,
+    "d": 98,
+    "mass": 890
+   }
+  ]
+ },
+ {
+  "id": "cgt-cub",
+  "brand": "caspian",
+  "name": "CUB",
+  "cat": "spirits",
+  "tier": "premium",
+  "image": "cg-cub.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 199,
+    "d": 69,
+    "mass": 465
+   },
+   {
+    "ml": 700,
+    "h": 221,
+    "d": 76,
+    "mass": 575
+   },
+   {
+    "ml": 1000,
+    "h": 244,
+    "d": 85,
+    "mass": 815
+   }
+  ]
+ },
+ {
+  "id": "cgt-bordo",
+  "brand": "caspian",
+  "name": "BORDO",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-bordo.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 310,
+    "d": 75,
+    "mass": 490
+   }
+  ]
+ },
+ {
+  "id": "cgt-liker",
+  "brand": "caspian",
+  "name": "LIKER",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-liker.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 334,
+    "d": 73,
+    "mass": 440
+   }
+  ]
+ },
+ {
+  "id": "cgt-roll",
+  "brand": "caspian",
+  "name": "ROLL",
+  "cat": "spirits",
+  "tier": "premium",
+  "image": "cg-roll.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 231,
+    "d": 54,
+    "mass": 350
+   },
+   {
+    "ml": 500,
+    "h": 292,
+    "d": 67,
+    "mass": 600
+   },
+   {
+    "ml": 700,
+    "h": 310,
+    "d": 77,
+    "mass": 800
+   },
+   {
+    "ml": 1000,
+    "h": 345,
+    "d": 85,
+    "mass": 1000
+   }
+  ]
+ },
+ {
+  "id": "cgt-175",
+  "brand": "caspian",
+  "name": "1.75",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-175.webp",
+  "variants": [
+   {
+    "ml": 1750,
+    "h": 338,
+    "d": 89,
+    "mass": 940
+   }
+  ]
+ },
+ {
+  "id": "cgt-decanter",
+  "brand": "caspian",
+  "name": "DECANTER",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-decanter.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 157,
+    "d": 78,
+    "mass": 260
+   },
+   {
+    "ml": 500,
+    "h": 192,
+    "d": 97,
+    "mass": 420
+   }
+  ]
+ },
+ {
+  "id": "cgt-roll-ii",
+  "brand": "caspian",
+  "name": "ROLL II",
+  "cat": "spirits",
+  "tier": "premium",
+  "image": "cg-roll-ii.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 286,
+    "d": 65,
+    "mass": 500
+   },
+   {
+    "ml": 700,
+    "h": 303,
+    "d": 74,
+    "mass": 650
+   },
+   {
+    "ml": 1000,
+    "h": 335,
+    "d": 83,
+    "mass": 845
+   }
+  ]
+ },
+ {
+  "id": "cgt-grafin",
+  "brand": "caspian",
+  "name": "GRAFIN",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-grafin.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 210,
+    "d": 70,
+    "mass": 440
+   }
+  ]
+ },
+ {
+  "id": "cgt-vega",
+  "brand": "caspian",
+  "name": "VEGA",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-vega.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 302,
+    "d": 57,
+    "mass": 640
+   },
+   {
+    "ml": 700,
+    "h": 325,
+    "d": 64,
+    "mass": 750
+   },
+   {
+    "ml": 1000,
+    "h": 345,
+    "d": 85,
+    "mass": 920
+   }
+  ]
+ },
+ {
+  "id": "cgt-ice-cube",
+  "brand": "caspian",
+  "name": "ICE CUBE",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-ice-cube.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 210,
+    "d": 50,
+    "mass": 260
+   },
+   {
+    "ml": 250,
+    "h": 200,
+    "d": 50,
+    "mass": 260
+   },
+   {
+    "ml": 500,
+    "h": 255,
+    "d": 60,
+    "mass": 410
+   },
+   {
+    "ml": 700,
+    "h": 277,
+    "d": 67,
+    "mass": 530
+   },
+   {
+    "ml": 1000,
+    "h": 295,
+    "d": 76,
+    "mass": 680
+   }
+  ]
+ },
+ {
+  "id": "cgt-evro-235",
+  "brand": "caspian",
+  "name": "EVRO 235",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-evro-235.webp",
+  "variants": [
+   {
+    "ml": 235,
+    "h": 65,
+    "d": 77,
+    "mass": 160
+   }
+  ]
+ },
+ {
+  "id": "cgt-standart-ii",
+  "brand": "caspian",
+  "name": "STANDART II",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-standart-ii.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 169,
+    "d": 62,
+    "mass": 240
+   },
+   {
+    "ml": 500,
+    "h": 213,
+    "d": 78,
+    "mass": 413
+   },
+   {
+    "ml": 700,
+    "h": 237,
+    "d": 84,
+    "mass": 513
+   },
+   {
+    "ml": 1000,
+    "h": 263,
+    "d": 95,
+    "mass": 670
+   }
+  ]
+ },
+ {
+  "id": "cgt-satandart",
+  "brand": "caspian",
+  "name": "SATANDART",
+  "cat": "spirits",
+  "tier": "premium",
+  "image": "cg-satandart.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 173,
+    "d": 63,
+    "mass": 345
+   },
+   {
+    "ml": 500,
+    "h": 215,
+    "d": 78,
+    "mass": 510
+   },
+   {
+    "ml": 700,
+    "h": 240,
+    "d": 87,
+    "mass": 750
+   },
+   {
+    "ml": 1000,
+    "h": 262,
+    "d": 97,
+    "mass": 890
+   }
+  ]
+ },
+ {
+  "id": "cgt-hill",
+  "brand": "caspian",
+  "name": "HILL",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-hill.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 292,
+    "d": 64,
+    "mass": 590
+   },
+   {
+    "ml": 700,
+    "h": 323,
+    "d": 72,
+    "mass": 750
+   },
+   {
+    "ml": 1000,
+    "h": 346,
+    "d": 82,
+    "mass": 940
+   }
+  ]
+ },
+ {
+  "id": "cgt-bonya",
+  "brand": "caspian",
+  "name": "BONYA",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-bonya.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 221,
+    "d": 69,
+    "mass": 445
+   },
+   {
+    "ml": 700,
+    "h": 245,
+    "d": 77,
+    "mass": 545
+   },
+   {
+    "ml": 1000,
+    "h": 274,
+    "d": 86,
+    "mass": 700
+   }
+  ]
+ },
+ {
+  "id": "cgt-brendi",
+  "brand": "caspian",
+  "name": "BRENDI",
+  "cat": "spirits",
+  "tier": "premium",
+  "image": "cg-brendi.webp",
+  "variants": [
+   {
+    "ml": 350,
+    "h": 222,
+    "d": 61,
+    "mass": 315
+   },
+   {
+    "ml": 500,
+    "h": 286,
+    "d": 70,
+    "mass": 425
+   }
+  ]
+ },
+ {
+  "id": "cgt-arina-ii",
+  "brand": "caspian",
+  "name": "ARINA II",
+  "cat": "spirits",
+  "tier": "premium",
+  "image": "cg-arina-ii.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 290,
+    "d": 65,
+    "mass": 500
+   },
+   {
+    "ml": 700,
+    "h": 320,
+    "d": 73,
+    "mass": 650
+   },
+   {
+    "ml": 1000,
+    "h": 342,
+    "d": 83,
+    "mass": 820
+   }
+  ]
+ },
+ {
+  "id": "cgt-original",
+  "brand": "caspian",
+  "name": "ORIGINAL",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-original.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 231,
+    "d": 54,
+    "mass": 350
+   },
+   {
+    "ml": 500,
+    "h": 293,
+    "d": 64,
+    "mass": 320
+   },
+   {
+    "ml": 700,
+    "h": 323,
+    "d": 71,
+    "mass": 425
+   },
+   {
+    "ml": 750,
+    "h": 325,
+    "d": 74,
+    "mass": 530
+   },
+   {
+    "ml": 1000,
+    "h": 345,
+    "d": 85,
+    "mass": 500
+   }
+  ]
+ },
+ {
+  "id": "cgt-luna",
+  "brand": "caspian",
+  "name": "LUNA",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-luna.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 209,
+    "d": 52,
+    "mass": 235
+   },
+   {
+    "ml": 500,
+    "h": 272,
+    "d": 62,
+    "mass": 370
+   },
+   {
+    "ml": 700,
+    "h": 304,
+    "d": 69,
+    "mass": 455
+   },
+   {
+    "ml": 1000,
+    "h": 334,
+    "d": 78,
+    "mass": 560
+   }
+  ]
+ },
+ {
+  "id": "cgt-rodnik",
+  "brand": "caspian",
+  "name": "RODNIK",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-rodnik.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 255,
+    "d": 76,
+    "mass": 430
+   },
+   {
+    "ml": 750,
+    "h": 286,
+    "d": 87,
+    "mass": 570
+   }
+  ]
+ },
+ {
+  "id": "cgt-cone",
+  "brand": "caspian",
+  "name": "CONE",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-cone.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 240,
+    "d": 74,
+    "mass": 620
+   },
+   {
+    "ml": 700,
+    "h": 265,
+    "d": 82,
+    "mass": 775
+   },
+   {
+    "ml": 1000,
+    "h": 295,
+    "d": 91,
+    "mass": 980
+   }
+  ]
+ },
+ {
+  "id": "cgt-frans",
+  "brand": "caspian",
+  "name": "FRANS",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-frans.webp",
+  "variants": [
+   {
+    "ml": 350,
+    "h": 319,
+    "d": 65,
+    "mass": 535
+   },
+   {
+    "ml": 500,
+    "h": 343,
+    "d": 56,
+    "mass": 620
+   }
+  ]
+ },
+ {
+  "id": "cgt-crown",
+  "brand": "caspian",
+  "name": "CROWN",
+  "cat": "spirits",
+  "tier": "super-premium",
+  "image": "cg-crown.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 223,
+    "d": 93,
+    "mass": 470
+   },
+   {
+    "ml": 700,
+    "h": 243,
+    "d": 104,
+    "mass": 600
+   }
+  ]
+ },
+ {
+  "id": "cgt-burbon",
+  "brand": "caspian",
+  "name": "BURBON",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-burbon.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 227,
+    "d": 82,
+    "mass": 420
+   }
+  ]
+ },
+ {
+  "id": "cgt-prima",
+  "brand": "caspian",
+  "name": "PRIMA",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-prima.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 289,
+    "d": 65,
+    "mass": 380
+   }
+  ]
+ },
+ {
+  "id": "cgt-whisky",
+  "brand": "caspian",
+  "name": "WHISKY",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-whisky.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 239,
+    "d": 82,
+    "mass": 400
+   },
+   {
+    "ml": 700,
+    "h": 259,
+    "d": 84,
+    "mass": 505
+   }
+  ]
+ },
+ {
+  "id": "cgt-flyaga",
+  "brand": "caspian",
+  "name": "FLYAGA",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-flyaga.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 239,
+    "d": 99,
+    "mass": 450
+   }
+  ]
+ },
+ {
+  "id": "cgt-kupazh",
+  "brand": "caspian",
+  "name": "KUPAZH",
+  "cat": "spirits",
+  "tier": "original",
+  "image": "cg-kupazh.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 248,
+    "d": 72,
+    "mass": 395
+   },
+   {
+    "ml": 700,
+    "h": 284,
+    "d": 79,
+    "mass": 475
+   }
+  ]
+ },
+ {
+  "id": "rs-007-1",
+  "brand": "catalog",
+  "name": "Long Neck",
+  "cat": "beer",
+  "code": "250420",
+  "finish": "CETIE GME 13.02",
+  "colors": [
+   "#83ca5f",
+   "#676bb6",
+   "#d0d0d0",
+   "#b4793f"
+  ],
+  "image": "rs-007-1.webp",
+  "drawing": "rs-007-1-d.webp",
+  "variants": [
+   {
+    "ml": 200,
+    "h": 184.4,
+    "d": 51.8,
+    "fill": 37.0
+   }
+  ]
+ },
+ {
+  "id": "rs-007-2",
+  "brand": "catalog",
+  "name": "X-Mas",
+  "cat": "beer",
+  "code": "250825",
+  "finish": "Cetie GME 13-02-2",
+  "colors": [
+   "#b57a40"
+  ],
+  "image": "rs-007-2.webp",
+  "drawing": "rs-007-2-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 184.0,
+    "d": 59.1,
+    "fill": 43.0
+   }
+  ]
+ },
+ {
+  "id": "rs-008-1",
+  "brand": "catalog",
+  "name": "Steinie light",
+  "cat": "beer",
+  "code": "264633",
+  "finish": "A 26 DIN 6094-1",
+  "colors": [
+   "#b57a40"
+  ],
+  "image": "rs-008-1.webp",
+  "drawing": "rs-008-1-d.webp",
+  "variants": [
+   {
+    "ml": 330,
+    "h": 174.0,
+    "d": 70.0,
+    "fill": 49.0
+   }
+  ]
+ },
+ {
+  "id": "rs-008-2",
+  "brand": "catalog",
+  "name": "Long Neck",
+  "cat": "beer",
+  "code": "250425",
+  "finish": "Cetie GME 13-02-2",
+  "colors": [
+   "#b67c42"
+  ],
+  "image": "rs-008-2.webp",
+  "drawing": "rs-008-2-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 189.0,
+    "d": 59.2,
+    "fill": 43.0
+   }
+  ]
+ },
+ {
+  "id": "rs-009-1",
+  "brand": "catalog",
+  "name": "Eva",
+  "cat": "beer",
+  "code": "276125",
+  "finish": "NF H 35-80",
+  "colors": [
+   "#0d0d0d",
+   "#83ca5f",
+   "#666ab5",
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-009-1.webp",
+  "drawing": "rs-009-1-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 155.0,
+    "d": 59.7,
+    "fill": 36.0
+   }
+  ]
+ },
+ {
+  "id": "rs-009-2",
+  "brand": "catalog",
+  "name": "Football",
+  "cat": "beer",
+  "code": "257533",
+  "finish": "A 26 DIN 6094 - 1",
+  "colors": [
+   "#83ca5f",
+   "#666ab5",
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-009-2.webp",
+  "drawing": "rs-009-2-d.webp",
+  "variants": [
+   {
+    "ml": 330,
+    "h": 219.0,
+    "d": 64.2,
+    "fill": 48.0
+   }
+  ]
+ },
+ {
+  "id": "rs-010-1",
+  "brand": "catalog",
+  "name": "Long Neck",
+  "cat": "beer",
+  "code": "276933",
+  "finish": "A 26 DIN 6094- 1 Special",
+  "colors": [
+   "#83ca5f",
+   "#666ab5",
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-010-1.webp",
+  "drawing": "rs-010-1-d.webp",
+  "variants": [
+   {
+    "ml": 330,
+    "h": 226.5,
+    "d": 60.4,
+    "fill": 47.0
+   }
+  ]
+ },
+ {
+  "id": "rs-010-2",
+  "brand": "catalog",
+  "name": "NRW",
+  "cat": "beer",
+  "code": "252445",
+  "finish": "26 TWIST CROWN 10",
+  "colors": [
+   "#83ca5f",
+   "#666ab5",
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-010-2.webp",
+  "drawing": "rs-010-2-d.webp",
+  "variants": [
+   {
+    "ml": 450,
+    "h": 244.0,
+    "d": 67.0,
+    "fill": 62.0
+   }
+  ]
+ },
+ {
+  "id": "rs-011-1",
+  "brand": "catalog",
+  "name": "Emerald",
+  "cat": "beer",
+  "code": "253145",
+  "finish": "A 26 DIN 6094-1",
+  "colors": [
+   "#83ca5f",
+   "#666ab5",
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-011-1.webp",
+  "drawing": "rs-011-1-d.webp",
+  "variants": [
+   {
+    "ml": 450,
+    "h": 250.0,
+    "d": 67.5,
+    "fill": 67.0
+   }
+  ]
+ },
+ {
+  "id": "rs-011-2",
+  "brand": "catalog",
+  "name": "Football",
+  "cat": "beer",
+  "code": "254150",
+  "finish": "26 Twist Crown 14",
+  "colors": [
+   "#83ca5f",
+   "#666ab5",
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-011-2.webp",
+  "drawing": "rs-011-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 247.0,
+    "d": 72.9,
+    "fill": 53.0
+   }
+  ]
+ },
+ {
+  "id": "rs-012-1",
+  "brand": "catalog",
+  "name": "NRW",
+  "cat": "beer",
+  "code": "276450",
+  "finish": "26 Twist Crown 10",
+  "colors": [
+   "#83ca5f",
+   "#666ab5",
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-012-1.webp",
+  "drawing": "rs-012-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 260.0,
+    "d": 67.0,
+    "fill": 56.0
+   }
+  ]
+ },
+ {
+  "id": "rs-012-2",
+  "brand": "catalog",
+  "name": "NRW",
+  "cat": "beer",
+  "code": "512650",
+  "finish": "A 26 DIN 6094-1",
+  "colors": [
+   "#83ca5f",
+   "#d0cfd0",
+   "#b67d43"
+  ],
+  "image": "rs-012-2.webp",
+  "drawing": "rs-012-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 260.0,
+    "d": 67.0,
+    "fill": 56.0
+   }
+  ]
+ },
+ {
+  "id": "rs-013-1",
+  "brand": "catalog",
+  "name": "Emerald",
+  "cat": "beer",
+  "code": "268550",
+  "finish": "A 26 DIN 6094-1",
+  "colors": [
+   "#83ca5f",
+   "#666ab5",
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-013-1.webp",
+  "drawing": "rs-013-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 254.0,
+    "d": 69.5,
+    "fill": 104.0
+   }
+  ]
+ },
+ {
+  "id": "rs-013-2",
+  "brand": "catalog",
+  "name": "Becksil",
+  "cat": "beer",
+  "code": "272750",
+  "finish": "26 Twist Crown",
+  "colors": [
+   "#82ca5f",
+   "#6569b5",
+   "#d1d0d0",
+   "#b4793f"
+  ],
+  "image": "rs-013-2.webp",
+  "drawing": "rs-013-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 270.0,
+    "d": 68.5,
+    "fill": 57.0
+   }
+  ]
+ },
+ {
+  "id": "rs-014-1",
+  "brand": "catalog",
+  "name": "Long Neck",
+  "cat": "beer",
+  "code": "260750",
+  "finish": "A 26 DIN 6094-1 (MK 665)",
+  "colors": [
+   "#83ca5f",
+   "#666ab5",
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-014-1.webp",
+  "drawing": "rs-014-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 270.0,
+    "d": null,
+    "fill": 60.0
+   }
+  ]
+ },
+ {
+  "id": "rs-014-2",
+  "brand": "catalog",
+  "name": "Steine",
+  "cat": "beer",
+  "code": "255945",
+  "finish": "26 Twist Crown 10",
+  "colors": [
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-014-2.webp",
+  "drawing": "rs-014-2-d.webp",
+  "variants": [
+   {
+    "ml": 450,
+    "h": 185.0,
+    "d": null,
+    "fill": 48.0
+   }
+  ]
+ },
+ {
+  "id": "rs-015-1",
+  "brand": "catalog",
+  "name": "Warshava light",
+  "cat": "beer",
+  "code": "513050",
+  "finish": "26 Twist Crown 10",
+  "colors": [
+   "#83ca5f",
+   "#666ab5",
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-015-1.webp",
+  "drawing": "rs-015-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 242.0,
+    "d": 67.9,
+    "fill": 51.0
+   }
+  ]
+ },
+ {
+  "id": "rs-015-2",
+  "brand": "catalog",
+  "name": "Warshava light",
+  "cat": "beer",
+  "code": "513050",
+  "finish": "A 26 DIN 6094-1",
+  "colors": [
+   "#83ca5f",
+   "#b57a40"
+  ],
+  "image": "rs-015-2.webp",
+  "drawing": "rs-015-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 242.0,
+    "d": 67.9,
+    "fill": 51.0
+   }
+  ]
+ },
+ {
+  "id": "rs-016-1",
+  "brand": "catalog",
+  "name": "Swing top",
+  "cat": "beer",
+  "code": "251075",
+  "finish": "DIN 6094-3-28",
+  "colors": [
+   "#82c95d",
+   "#6468b4",
+   "#d0d0d0",
+   "#b4783d"
+  ],
+  "image": "rs-016-1.webp",
+  "drawing": "rs-016-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 306.0,
+    "d": 78.4,
+    "fill": 85.0
+   }
+  ]
+ },
+ {
+  "id": "rs-016-2",
+  "brand": "catalog",
+  "name": "NRW",
+  "cat": "beer",
+  "code": "250699",
+  "finish": "A 26 DIN 6094-1",
+  "colors": [
+   "#83ca5f",
+   "#666ab5",
+   "#d1d0d0",
+   "#b57a3f"
+  ],
+  "image": "rs-016-2.webp",
+  "drawing": "rs-016-2-d.webp",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 295.0,
+    "d": 85.0,
+    "fill": 64.0
+   }
+  ]
+ },
+ {
+  "id": "rs-017-1",
+  "brand": "catalog",
+  "name": "Swing top",
+  "cat": "beer",
+  "code": "251699",
+  "finish": "DIN 6094-3-28",
+  "colors": [
+   "#82ca5f",
+   "#6569b5",
+   "#d1d0d0",
+   "#b4793f"
+  ],
+  "image": "rs-017-1.webp",
+  "drawing": "rs-017-1-d.webp",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 317.0,
+    "d": 85.7,
+    "fill": 59.0
+   }
+  ]
+ },
+ {
+  "id": "rs-017-2",
+  "brand": "catalog",
+  "name": "Apo",
+  "cat": "beer",
+  "code": "253125",
+  "finish": "A 26 DIN 6094-1",
+  "colors": [
+   "#d1d0d0",
+   "#b57a40"
+  ],
+  "image": "rs-017-2.webp",
+  "drawing": "rs-017-2-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 212.0,
+    "d": 56.8,
+    "fill": 50.0
+   }
+  ]
+ },
+ {
+  "id": "rs-018-1",
+  "brand": "catalog",
+  "name": "Apo",
+  "cat": "beer",
+  "code": "256333",
+  "finish": "A 26 DIN 6094 - 1 Special",
+  "colors": [
+   "#d0cfcf",
+   "#b47a3e",
+   "#7ec85a"
+  ],
+  "image": "rs-018-1.webp",
+  "drawing": "rs-018-1-d.webp",
+  "variants": [
+   {
+    "ml": 330,
+    "h": 227.0,
+    "d": 60.0,
+    "fill": 45.0
+   }
+  ]
+ },
+ {
+  "id": "rs-018-2",
+  "brand": "catalog",
+  "name": "Cube",
+  "cat": "beer",
+  "code": "260327",
+  "finish": "Cetie GME 13-02-2",
+  "colors": [
+   "#83ca5f",
+   "#d0d0d0",
+   "#b4793f"
+  ],
+  "image": "rs-018-2.webp",
+  "drawing": "rs-018-2-d.webp",
+  "variants": [
+   {
+    "ml": 275,
+    "h": 218.0,
+    "d": 57.5,
+    "fill": 80.0
+   }
+  ]
+ },
+ {
+  "id": "rs-019-1",
+  "brand": "catalog",
+  "name": "Spendrups",
+  "cat": "beer",
+  "code": "257133",
+  "finish": "GETE GME 13.02 2",
+  "colors": [
+   "#d0cfcf",
+   "#b4793d"
+  ],
+  "image": "rs-019-1.webp",
+  "drawing": "rs-019-1-d.webp",
+  "variants": [
+   {
+    "ml": 330,
+    "h": 181.6,
+    "d": 65.5,
+    "fill": 45.0
+   }
+  ]
+ },
+ {
+  "id": "rs-021-1",
+  "brand": "catalog",
+  "name": "Champagne colio S",
+  "cat": "champagne",
+  "code": "837775",
+  "finish": "КПШ",
+  "colors": [
+   "#6a9360",
+   "#cfcece"
+  ],
+  "image": "rs-021-1.webp",
+  "drawing": "rs-021-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 287.0,
+    "d": 89.9,
+    "fill": 85.0
+   }
+  ]
+ },
+ {
+  "id": "rs-021-2",
+  "brand": "catalog",
+  "name": "Champagne spring",
+  "cat": "champagne",
+  "code": "838975",
+  "finish": "КПШ",
+  "colors": [
+   "#69925f",
+   "#cfcece"
+  ],
+  "image": "rs-021-2.webp",
+  "drawing": "rs-021-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 280.0,
+    "d": 90.5,
+    "fill": 85.0
+   }
+  ]
+ },
+ {
+  "id": "rs-022-1",
+  "brand": "catalog",
+  "name": "Champagne V",
+  "cat": "champagne",
+  "code": "839075",
+  "finish": "КПШ",
+  "colors": [
+   "#82c95e",
+   "#cfcece"
+  ],
+  "image": "rs-022-1.webp",
+  "drawing": "rs-022-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 272.0,
+    "d": 99.7,
+    "fill": 102.0
+   }
+  ]
+ },
+ {
+  "id": "rs-022-2",
+  "brand": "catalog",
+  "name": "Champagne",
+  "cat": "champagne",
+  "code": "520120",
+  "finish": "Screw",
+  "colors": [
+   "#6e9563"
+  ],
+  "image": "rs-022-2.webp",
+  "drawing": "rs-022-2-d.webp",
+  "variants": [
+   {
+    "ml": 200,
+    "h": 293.5,
+    "d": 90.5,
+    "fill": 90.0
+   }
+  ]
+ },
+ {
+  "id": "rs-023-1",
+  "brand": "catalog",
+  "name": "Champagne",
+  "cat": "champagne",
+  "code": "520220",
+  "finish": "Screw",
+  "colors": [
+   "#6a9361"
+  ],
+  "image": "rs-023-1.webp",
+  "drawing": "rs-023-1-d.webp",
+  "variants": [
+   {
+    "ml": 200,
+    "h": 183.0,
+    "d": null,
+    "fill": 50.0
+   }
+  ]
+ },
+ {
+  "id": "rs-023-2",
+  "brand": "catalog",
+  "name": "Champagne CM",
+  "cat": "champagne",
+  "code": "832175",
+  "finish": "КПШ",
+  "colors": [
+   "#82ca5f",
+   "#6d9563"
+  ],
+  "image": "rs-023-2.webp",
+  "drawing": "rs-023-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 287.0,
+    "d": 93.5,
+    "fill": 80.0
+   }
+  ]
+ },
+ {
+  "id": "rs-024-1",
+  "brand": "catalog",
+  "name": "Champagne monro light",
+  "cat": "champagne",
+  "code": "594675",
+  "finish": "КПШ",
+  "colors": [
+   "#cfcece",
+   "#82ca5f",
+   "#6c9462",
+   "#b4793e"
+  ],
+  "image": "rs-024-1.webp",
+  "drawing": "rs-024-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 293.5,
+    "d": 90.5,
+    "fill": 90.0
+   }
+  ]
+ },
+ {
+  "id": "rs-024-2",
+  "brand": "catalog",
+  "name": "Champagne classic",
+  "cat": "champagne",
+  "code": "525475",
+  "finish": "КПШ",
+  "colors": [
+   "#6d9563"
+  ],
+  "image": "rs-024-2.webp",
+  "drawing": "rs-024-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 300.0,
+    "d": 82.0,
+    "fill": 80.0
+   }
+  ]
+ },
+ {
+  "id": "rs-025-1",
+  "brand": "catalog",
+  "name": "Champagne CL",
+  "cat": "champagne",
+  "code": "592475",
+  "finish": "КПШ",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "rs-025-1.webp",
+  "drawing": "rs-025-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 300.0,
+    "d": 81.8,
+    "fill": 80.0
+   }
+  ]
+ },
+ {
+  "id": "rs-025-2",
+  "brand": "catalog",
+  "name": "Champagne",
+  "cat": "champagne",
+  "code": "834075",
+  "finish": "Ш",
+  "colors": [
+   "#82c95e",
+   "#cfcece"
+  ],
+  "image": "rs-025-2.webp",
+  "drawing": "rs-025-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 300.0,
+    "d": 82.8,
+    "fill": 80.0
+   }
+  ]
+ },
+ {
+  "id": "rs-026-1",
+  "brand": "catalog",
+  "name": "Champagne cru light",
+  "cat": "champagne",
+  "code": "599675",
+  "finish": "КПШ",
+  "colors": [
+   "#7ec85b",
+   "#69935f",
+   "#d0cfcf",
+   "#b2763b"
+  ],
+  "image": "rs-026-1.webp",
+  "drawing": "rs-026-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 300.0,
+    "d": 89.1,
+    "fill": 90.0
+   }
+  ]
+ },
+ {
+  "id": "rs-026-2",
+  "brand": "catalog",
+  "name": "Moscow",
+  "cat": "champagne",
+  "code": "839875",
+  "finish": "КПШ",
+  "colors": [
+   "#6d9563"
+  ],
+  "image": "rs-026-2.webp",
+  "drawing": "rs-026-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 268.0,
+    "d": 99.7,
+    "fill": 89.0
+   }
+  ]
+ },
+ {
+  "id": "rs-029-1",
+  "brand": "catalog",
+  "name": "Flyazhka",
+  "cat": "cognac",
+  "code": "233510",
+  "finish": "B-28-1",
+  "colors": [
+   "#3b3738",
+   "#cfcecf"
+  ],
+  "image": "rs-029-1.webp",
+  "drawing": "rs-029-1-d.webp",
+  "variants": [
+   {
+    "ml": 100,
+    "h": 127.0,
+    "d": null,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-029-2",
+  "brand": "catalog",
+  "name": "Flyazhka",
+  "cat": "cognac",
+  "code": "220825",
+  "finish": "B-28-1",
+  "colors": [
+   "#363233",
+   "#cfcece"
+  ],
+  "image": "rs-029-2.webp",
+  "drawing": "rs-029-2-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 170.0,
+    "d": null,
+    "fill": 95.0
+   }
+  ]
+ },
+ {
+  "id": "rs-030-1",
+  "brand": "catalog",
+  "name": "Cognac TB",
+  "cat": "cognac",
+  "code": "532325",
+  "finish": "NF H 35-077 «Camu»",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-030-1.webp",
+  "drawing": "rs-030-1-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 226.5,
+    "d": 54.0,
+    "fill": 62.0
+   }
+  ]
+ },
+ {
+  "id": "rs-030-2",
+  "brand": "catalog",
+  "name": "Cognac TB",
+  "cat": "cognac",
+  "code": "532235",
+  "finish": "NF H 35-077 «Camu»",
+  "colors": [
+   "#cecdce"
+  ],
+  "image": "rs-030-2.webp",
+  "drawing": "rs-030-2-d.webp",
+  "variants": [
+   {
+    "ml": 350,
+    "h": 270.0,
+    "d": 59.0,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-031-1",
+  "brand": "catalog",
+  "name": "Cognac TB",
+  "cat": "cognac",
+  "code": "138322",
+  "finish": "NF H 35-077 «Camu»",
+  "colors": [
+   "#cfcfcf"
+  ],
+  "image": "rs-031-1.webp",
+  "drawing": "rs-031-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 295.0,
+    "d": 66.0,
+    "fill": 83.0
+   }
+  ]
+ },
+ {
+  "id": "rs-031-2",
+  "brand": "catalog",
+  "name": "Cognac",
+  "cat": "cognac",
+  "code": "532450",
+  "finish": "B-27A",
+  "colors": [
+   "#cfcfcf"
+  ],
+  "image": "rs-031-2.webp",
+  "drawing": "rs-031-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 227.0,
+    "d": 83.4,
+    "fill": 61.0
+   }
+  ]
+ },
+ {
+  "id": "rs-032-1",
+  "brand": "catalog",
+  "name": "Cognac",
+  "cat": "cognac",
+  "code": "532550",
+  "finish": "B-28-1",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-032-1.webp",
+  "drawing": "rs-032-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 228.0,
+    "d": 83.4,
+    "fill": 61.0
+   }
+  ]
+ },
+ {
+  "id": "rs-035-1",
+  "brand": "catalog",
+  "name": "500 TO 82",
+  "cat": "jars",
+  "code": "100150",
+  "finish": "TO 82",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-035-1.webp",
+  "drawing": "rs-035-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 122.0,
+    "d": 88.0,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-035-2",
+  "brand": "catalog",
+  "name": "Hexagonal",
+  "cat": "jars",
+  "code": "100417",
+  "finish": "58 TO FD 136",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-035-2.webp",
+  "drawing": "rs-035-2-d.webp",
+  "variants": [
+   {
+    "ml": 165,
+    "h": 84.6,
+    "d": null,
+    "fill": 19.0
+   }
+  ]
+ },
+ {
+  "id": "rs-036-1",
+  "brand": "catalog",
+  "name": "160 TO 53",
+  "cat": "jars",
+  "code": "182218",
+  "finish": "ТО 53",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-036-1.webp",
+  "drawing": "rs-036-1-d.webp",
+  "variants": [
+   {
+    "ml": 180,
+    "h": 105.6,
+    "d": 56.5,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-036-2",
+  "brand": "catalog",
+  "name": "Horseradish TO 53",
+  "cat": "jars",
+  "code": "188819",
+  "finish": "ТО 53",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-036-2.webp",
+  "drawing": "rs-036-2-d.webp",
+  "variants": [
+   {
+    "ml": 190,
+    "h": 102.5,
+    "d": 60.5,
+    "fill": 17.0
+   }
+  ]
+ },
+ {
+  "id": "rs-037-1",
+  "brand": "catalog",
+  "name": "250 TO 58",
+  "cat": "jars",
+  "code": "169528",
+  "finish": "ТО 58",
+  "colors": [
+   "#cecece"
+  ],
+  "image": "rs-037-1.webp",
+  "drawing": "rs-037-1-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 99.0,
+    "d": 71.0,
+    "fill": 51.0
+   }
+  ]
+ },
+ {
+  "id": "rs-037-2",
+  "brand": "catalog",
+  "name": "250 TO 66",
+  "cat": "jars",
+  "code": "169825",
+  "finish": "ТО 66",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-037-2.webp",
+  "drawing": "rs-037-2-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 99.0,
+    "d": 70.0,
+    "fill": 50.0
+   }
+  ]
+ },
+ {
+  "id": "rs-038-1",
+  "brand": "catalog",
+  "name": "250 TO 82",
+  "cat": "jars",
+  "code": "175725",
+  "finish": "ТО 82",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-038-1.webp",
+  "drawing": "rs-038-1-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 59.0,
+    "d": 84.2,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-038-2",
+  "brand": "catalog",
+  "name": "350 TO 66",
+  "cat": "jars",
+  "code": "175635",
+  "finish": "ТО 66",
+  "colors": [
+   "#cecdce"
+  ],
+  "image": "rs-038-2.webp",
+  "drawing": "rs-038-2-d.webp",
+  "variants": [
+   {
+    "ml": 350,
+    "h": 125.0,
+    "d": 72.0,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-039-1",
+  "brand": "catalog",
+  "name": "440 TO 82",
+  "cat": "jars",
+  "code": "168844",
+  "finish": "TO 82",
+  "colors": [
+   "#cfcfcf"
+  ],
+  "image": "rs-039-1.webp",
+  "drawing": "rs-039-1-d.webp",
+  "variants": [
+   {
+    "ml": 440,
+    "h": 104.0,
+    "d": 89.7,
+    "fill": 48.0
+   }
+  ]
+ },
+ {
+  "id": "rs-039-2",
+  "brand": "catalog",
+  "name": "450 TO 82",
+  "cat": "jars",
+  "code": "181945",
+  "finish": "ТО 82",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-039-2.webp",
+  "drawing": "rs-039-2-d.webp",
+  "variants": [
+   {
+    "ml": 450,
+    "h": 117.5,
+    "d": 85.2,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-040-1",
+  "brand": "catalog",
+  "name": "475 TO 66",
+  "cat": "jars",
+  "code": "172148",
+  "finish": "ТО 66",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-040-1.webp",
+  "drawing": "rs-040-1-d.webp",
+  "variants": [
+   {
+    "ml": 475,
+    "h": 116.0,
+    "d": 87.0,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-040-2",
+  "brand": "catalog",
+  "name": "500 CKO",
+  "cat": "jars",
+  "code": "100156",
+  "finish": "СКО",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-040-2.webp",
+  "drawing": "rs-040-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 117.0,
+    "d": 88.0,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-041-1",
+  "brand": "catalog",
+  "name": "650 СКО",
+  "cat": "jars",
+  "code": "168165",
+  "finish": "СКО 82",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-041-1.webp",
+  "drawing": "rs-041-1-d.webp",
+  "variants": [
+   {
+    "ml": 650,
+    "h": 140.0,
+    "d": 89.0,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-041-2",
+  "brand": "catalog",
+  "name": "670 TO 82",
+  "cat": "jars",
+  "code": "169467",
+  "finish": "ТО 82",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": null,
+  "drawing": "rs-041-2-d.webp",
+  "variants": [
+   {
+    "ml": 670,
+    "h": 132.5,
+    "d": 95.4,
+    "fill": 54.0
+   }
+  ]
+ },
+ {
+  "id": "rs-042-1",
+  "brand": "catalog",
+  "name": "950 TO 82",
+  "cat": "jars",
+  "code": "170699",
+  "finish": "TO 82",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-042-1.webp",
+  "drawing": "rs-042-1-d.webp",
+  "variants": [
+   {
+    "ml": 950,
+    "h": 183.0,
+    "d": 95.0,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-042-2",
+  "brand": "catalog",
+  "name": "330ml oval jar",
+  "cat": "jars",
+  "code": "100833",
+  "finish": "66 TO CETIE GME 20.06",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": null,
+  "drawing": "rs-042-2-d.webp",
+  "variants": [
+   {
+    "ml": 330,
+    "h": 107.0,
+    "d": null,
+    "fill": 51.0
+   }
+  ]
+ },
+ {
+  "id": "rs-043-1",
+  "brand": "catalog",
+  "name": "250 ml Sauce glass jar",
+  "cat": "jars",
+  "code": "420125",
+  "finish": "",
+  "colors": [
+   "#cfcfcf"
+  ],
+  "image": "rs-043-1.webp",
+  "drawing": "rs-043-1-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 181.0,
+    "d": 56.7,
+    "fill": 27.0
+   }
+  ]
+ },
+ {
+  "id": "rs-043-2",
+  "brand": "catalog",
+  "name": "282 ml Square Jar",
+  "cat": "jars",
+  "code": "100128",
+  "finish": "TO 63",
+  "colors": [
+   "#808080",
+   "#8b8b8b",
+   "#cfcece"
+  ],
+  "image": "rs-043-2.webp",
+  "drawing": "rs-043-2-d.webp",
+  "variants": [
+   {
+    "ml": 282,
+    "h": 89.5,
+    "d": null,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-044-1",
+  "brand": "catalog",
+  "name": "Round bottle",
+  "cat": "jars",
+  "code": "100625",
+  "finish": "TO 38 DEEP 145B",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-044-1.webp",
+  "drawing": "rs-044-1-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 182.4,
+    "d": 58.0,
+    "fill": 45.0
+   }
+  ]
+ },
+ {
+  "id": "rs-044-2",
+  "brand": "catalog",
+  "name": "200 ml Square Jar",
+  "cat": "jars",
+  "code": "109320",
+  "finish": "",
+  "colors": [
+   "#cfcecf"
+  ],
+  "image": "rs-044-2.webp",
+  "drawing": "rs-044-2-d.webp",
+  "variants": [
+   {
+    "ml": 200,
+    "h": 91.3,
+    "d": null,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-046-1",
+  "brand": "catalog",
+  "name": "Milk",
+  "cat": "milk",
+  "code": "407775",
+  "finish": "TO 43",
+  "colors": [
+   "#cecdce"
+  ],
+  "image": "rs-046-1.webp",
+  "drawing": "rs-046-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 215.0,
+    "d": 81.8,
+    "fill": 37.0
+   }
+  ]
+ },
+ {
+  "id": "rs-048-1",
+  "brand": "catalog",
+  "name": "Long neck vint",
+  "cat": "water",
+  "code": "178620",
+  "finish": "MCA-2",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-048-1.webp",
+  "drawing": "rs-048-1-d.webp",
+  "variants": [
+   {
+    "ml": 330,
+    "h": 222.7,
+    "d": 60.4,
+    "fill": 43.0
+   }
+  ]
+ },
+ {
+  "id": "rs-050-1",
+  "brand": "catalog",
+  "name": "Marasca",
+  "cat": "oil",
+  "code": "120325",
+  "finish": "Uni 6144-h 15.8_0841",
+  "colors": [
+   "#6d9562",
+   "#cfcfcf"
+  ],
+  "image": "rs-050-1.webp",
+  "drawing": "rs-050-1-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 211.8,
+    "d": null,
+    "fill": 43.0
+   }
+  ]
+ },
+ {
+  "id": "rs-050-2",
+  "brand": "catalog",
+  "name": "Marasca",
+  "cat": "oil",
+  "code": "120550",
+  "finish": "Uni 6144-h 15.8_0841",
+  "colors": [
+   "#6d9562",
+   "#cfcfcf"
+  ],
+  "image": "rs-050-2.webp",
+  "drawing": "rs-050-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 260.0,
+    "d": null,
+    "fill": 50.0
+   }
+  ]
+ },
+ {
+  "id": "rs-051-1",
+  "brand": "catalog",
+  "name": "Marasca",
+  "cat": "oil",
+  "code": "120375",
+  "finish": "UNI 6144-h 15.8_0841",
+  "colors": [
+   "#6b9461",
+   "#cfcfcf"
+  ],
+  "image": "rs-051-1.webp",
+  "drawing": "rs-051-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 276.0,
+    "d": null,
+    "fill": 50.0
+   }
+  ]
+ },
+ {
+  "id": "rs-051-2",
+  "brand": "catalog",
+  "name": "Marasca light",
+  "cat": "oil",
+  "code": "120475",
+  "finish": "Uni 10666-31.5 Media PP VAE",
+  "colors": [
+   "#6d9562",
+   "#cfcfcf"
+  ],
+  "image": "rs-051-2.webp",
+  "drawing": "rs-051-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 274.8,
+    "d": null,
+    "fill": 52.0
+   }
+  ]
+ },
+ {
+  "id": "rs-054-1",
+  "brand": "catalog",
+  "name": "A le Coq",
+  "cat": "soft",
+  "code": "253033",
+  "finish": "Cetie GME 13.02",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-054-1.webp",
+  "drawing": "rs-054-1-d.webp",
+  "variants": [
+   {
+    "ml": 330,
+    "h": 234.2,
+    "d": 60.2,
+    "fill": 54.0
+   }
+  ]
+ },
+ {
+  "id": "rs-054-2",
+  "brand": "catalog",
+  "name": "Mini breeze",
+  "cat": "soft",
+  "code": "483525",
+  "finish": "TO 43",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": null,
+  "drawing": "rs-054-2-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 161.0,
+    "d": 56.0,
+    "fill": 22.0
+   }
+  ]
+ },
+ {
+  "id": "rs-055-1",
+  "brand": "catalog",
+  "name": "Outcast",
+  "cat": "soft",
+  "code": "310133",
+  "finish": "28-MCA-2",
+  "colors": [
+   "#7fc85a",
+   "#cfcece"
+  ],
+  "image": "rs-055-1.webp",
+  "drawing": "rs-055-1-d.webp",
+  "variants": [
+   {
+    "ml": 330,
+    "h": 237.3,
+    "d": 58.0,
+    "fill": 43.0
+   }
+  ]
+ },
+ {
+  "id": "rs-055-2",
+  "brand": "catalog",
+  "name": "Stary istochnik",
+  "cat": "soft",
+  "code": "310140",
+  "finish": "B-28-1-M",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-055-2.webp",
+  "drawing": "rs-055-2-d.webp",
+  "variants": [
+   {
+    "ml": 400,
+    "h": 216.5,
+    "d": 62.7,
+    "fill": 42.0
+   }
+  ]
+ },
+ {
+  "id": "rs-056-1",
+  "brand": "catalog",
+  "name": "Crona",
+  "cat": "soft",
+  "code": "311150",
+  "finish": "A 26 Din 6094-1",
+  "colors": [
+   "#82ca5e",
+   "#d1d0d1",
+   "#b57c42"
+  ],
+  "image": null,
+  "drawing": null,
+  "variants": [
+   {
+    "ml": 500,
+    "h": 258.8,
+    "d": 67.6,
+    "fill": 54.0
+   }
+  ]
+ },
+ {
+  "id": "rs-056-2",
+  "brand": "catalog",
+  "name": "Euro light",
+  "cat": "soft",
+  "code": "280250",
+  "finish": "A 26 Din 6094-1",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-056-2.webp",
+  "drawing": "rs-056-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 228.0,
+    "d": 68.6,
+    "fill": 52.0
+   }
+  ]
+ },
+ {
+  "id": "rs-057-1",
+  "brand": "catalog",
+  "name": "Supreme",
+  "cat": "soft",
+  "code": "326050",
+  "finish": "MCA-2",
+  "colors": [
+   "#83ca5f",
+   "#d1d0d0",
+   "#b4793f"
+  ],
+  "image": "rs-057-1.webp",
+  "drawing": "rs-057-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 255.0,
+    "d": 67.6,
+    "fill": 54.0
+   }
+  ]
+ },
+ {
+  "id": "rs-057-2",
+  "brand": "catalog",
+  "name": "Stary istochnik",
+  "cat": "soft",
+  "code": "311375",
+  "finish": "B-28-1-M",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-057-2.webp",
+  "drawing": "rs-057-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 270.0,
+    "d": 75.7,
+    "fill": 50.0
+   }
+  ]
+ },
+ {
+  "id": "rs-058-1",
+  "brand": "catalog",
+  "name": "Ruby",
+  "cat": "soft",
+  "code": "485099",
+  "finish": "TO 43",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-058-1.webp",
+  "drawing": "rs-058-1-d.webp",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 229.0,
+    "d": 94.9,
+    "fill": 34.0
+   }
+  ]
+ },
+ {
+  "id": "rs-058-2",
+  "brand": "catalog",
+  "name": "Breeze",
+  "cat": "soft",
+  "code": "481999",
+  "finish": "TO 43",
+  "colors": [
+   "#82ca5f",
+   "#cfcfcf"
+  ],
+  "image": "rs-058-2.webp",
+  "drawing": "rs-058-2-d.webp",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 254.2,
+    "d": 88.0,
+    "fill": 36.0
+   }
+  ]
+ },
+ {
+  "id": "rs-059-1",
+  "brand": "catalog",
+  "name": "Golden ring",
+  "cat": "soft",
+  "code": "310245",
+  "finish": "MCA-2",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-059-1.webp",
+  "drawing": "rs-059-1-d.webp",
+  "variants": [
+   {
+    "ml": 450,
+    "h": 272.2,
+    "d": 65.6,
+    "fill": 58.0
+   }
+  ]
+ },
+ {
+  "id": "rs-059-2",
+  "brand": "catalog",
+  "name": "Juice 750ml",
+  "cat": "soft",
+  "code": "407775",
+  "finish": "TO 43",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-059-2.webp",
+  "drawing": "rs-059-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 215.0,
+    "d": 81.8,
+    "fill": 37.0
+   }
+  ]
+ },
+ {
+  "id": "rs-061-1",
+  "brand": "catalog",
+  "name": "Cuckoo",
+  "cat": "vodka",
+  "code": "230150",
+  "finish": "BC-127",
+  "colors": [
+   "#cecdce"
+  ],
+  "image": "rs-061-1.webp",
+  "drawing": "rs-061-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 210.4,
+    "d": 76.4,
+    "fill": 44.0
+   }
+  ]
+ },
+ {
+  "id": "rs-061-2",
+  "brand": "catalog",
+  "name": "Original",
+  "cat": "vodka",
+  "code": "230650",
+  "finish": "Р 29 В",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-061-2.webp",
+  "drawing": "rs-061-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 290.0,
+    "d": null,
+    "fill": 73.0
+   }
+  ]
+ },
+ {
+  "id": "rs-062-1",
+  "brand": "catalog",
+  "name": "Flask",
+  "cat": "vodka",
+  "code": "220910",
+  "finish": "B-28-1",
+  "colors": [
+   "#cfcecf",
+   "#81c95c"
+  ],
+  "image": "rs-062-1.webp",
+  "drawing": "rs-062-1-d.webp",
+  "variants": [
+   {
+    "ml": 100,
+    "h": 127.0,
+    "d": null,
+    "fill": 25.0
+   }
+  ]
+ },
+ {
+  "id": "rs-062-2",
+  "brand": "catalog",
+  "name": "Flyazhka",
+  "cat": "vodka",
+  "code": "221410",
+  "finish": "B-28-1",
+  "colors": [
+   "#727da0",
+   "#262223",
+   "#cecece",
+   "#83ca5e"
+  ],
+  "image": "rs-062-2.webp",
+  "drawing": "rs-062-2-d.webp",
+  "variants": [
+   {
+    "ml": 100,
+    "h": 127.0,
+    "d": null,
+    "fill": 31.0
+   }
+  ]
+ },
+ {
+  "id": "rs-063-1",
+  "brand": "catalog",
+  "name": "Flyazhka",
+  "cat": "vodka",
+  "code": "233510",
+  "finish": "B-28-1",
+  "colors": [
+   "#363233",
+   "#cfcecf",
+   "#81c95c"
+  ],
+  "image": "rs-063-1.webp",
+  "drawing": "rs-063-1-d.webp",
+  "variants": [
+   {
+    "ml": 100,
+    "h": 127.0,
+    "d": null,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-063-2",
+  "brand": "catalog",
+  "name": "Standard",
+  "cat": "vodka",
+  "code": "220410",
+  "finish": "B-28-1",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-063-2.webp",
+  "drawing": "rs-063-2-d.webp",
+  "variants": [
+   {
+    "ml": 100,
+    "h": 150.0,
+    "d": 42.0,
+    "fill": 34.0
+   }
+  ]
+ },
+ {
+  "id": "rs-064-1",
+  "brand": "catalog",
+  "name": "Stakan",
+  "cat": "vodka",
+  "code": "220310",
+  "finish": "Strip 62",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-064-1.webp",
+  "drawing": "rs-064-1-d.webp",
+  "variants": [
+   {
+    "ml": 100,
+    "h": 79.5,
+    "d": 58.5,
+    "fill": 14.0
+   }
+  ]
+ },
+ {
+  "id": "rs-064-2",
+  "brand": "catalog",
+  "name": "Flyazhka",
+  "cat": "vodka",
+  "code": "220825",
+  "finish": "B-28-1",
+  "colors": [
+   "#cfcece",
+   "#82c95e"
+  ],
+  "image": "rs-064-2.webp",
+  "drawing": "rs-064-2-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 170.0,
+    "d": null,
+    "fill": 95.0
+   }
+  ]
+ },
+ {
+  "id": "rs-065-1",
+  "brand": "catalog",
+  "name": "Gost",
+  "cat": "vodka",
+  "code": "221325",
+  "finish": "B-28-1",
+  "colors": [
+   "#cfcece",
+   "#6c9462"
+  ],
+  "image": "rs-065-1.webp",
+  "drawing": "rs-065-1-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 195.0,
+    "d": 54.0,
+    "fill": 32.0
+   }
+  ]
+ },
+ {
+  "id": "rs-065-2",
+  "brand": "catalog",
+  "name": "Vertical",
+  "cat": "vodka",
+  "code": "220225",
+  "finish": "28x44 D2",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-065-2.webp",
+  "drawing": "rs-065-2-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 218.0,
+    "d": 52.5,
+    "fill": 35.0
+   }
+  ]
+ },
+ {
+  "id": "rs-066-1",
+  "brand": "catalog",
+  "name": "Dip",
+  "cat": "vodka",
+  "code": "532325",
+  "finish": "NF H35-077 «Camu»",
+  "colors": [
+   "#cfcfcf"
+  ],
+  "image": "rs-066-1.webp",
+  "drawing": "rs-066-1-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 226.5,
+    "d": 54.0,
+    "fill": 62.0
+   }
+  ]
+ },
+ {
+  "id": "rs-066-2",
+  "brand": "catalog",
+  "name": "Oval",
+  "cat": "vodka",
+  "code": "221625",
+  "finish": "B-28-2(M)",
+  "colors": [
+   "#cfcfcf"
+  ],
+  "image": "rs-066-2.webp",
+  "drawing": "rs-066-2-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 185.0,
+    "d": 68.5,
+    "fill": 35.0
+   }
+  ]
+ },
+ {
+  "id": "rs-067-1",
+  "brand": "catalog",
+  "name": "Oval",
+  "cat": "vodka",
+  "code": "221925",
+  "finish": "B-28-1(M)",
+  "colors": [
+   "#cfcfcf"
+  ],
+  "image": "rs-067-1.webp",
+  "drawing": "rs-067-1-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 178.4,
+    "d": null,
+    "fill": 29.0
+   }
+  ]
+ },
+ {
+  "id": "rs-067-2",
+  "brand": "catalog",
+  "name": "Dip",
+  "cat": "vodka",
+  "code": "532235",
+  "finish": "NF H35-077 «Camu»",
+  "colors": [
+   "#cfcfcf"
+  ],
+  "image": "rs-067-2.webp",
+  "drawing": "rs-067-2-d.webp",
+  "variants": [
+   {
+    "ml": 350,
+    "h": 270.0,
+    "d": 59.0,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-068-1",
+  "brand": "catalog",
+  "name": "Standard",
+  "cat": "vodka",
+  "code": "222537",
+  "finish": "B-28-1",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-068-1.webp",
+  "drawing": "rs-068-1-d.webp",
+  "variants": [
+   {
+    "ml": 375,
+    "h": 230.0,
+    "d": 61.5,
+    "fill": 38.0
+   }
+  ]
+ },
+ {
+  "id": "rs-068-2",
+  "brand": "catalog",
+  "name": "Standard",
+  "cat": "vodka",
+  "code": "231150",
+  "finish": "B-28-1",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-068-2.webp",
+  "drawing": "rs-068-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 263.0,
+    "d": 65.6,
+    "fill": 50.0
+   }
+  ]
+ },
+ {
+  "id": "rs-069-1",
+  "brand": "catalog",
+  "name": "Karandash",
+  "cat": "vodka",
+  "code": "225850",
+  "finish": "B-28-1",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-069-1.webp",
+  "drawing": "rs-069-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 278.4,
+    "d": 61.5,
+    "fill": 45.0
+   }
+  ]
+ },
+ {
+  "id": "rs-069-2",
+  "brand": "catalog",
+  "name": "Karandash",
+  "cat": "vodka",
+  "code": "225950",
+  "finish": "B-28-2",
+  "colors": [
+   "#cfcfcf"
+  ],
+  "image": "rs-069-2.webp",
+  "drawing": "rs-069-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 285.0,
+    "d": 61.5,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-070-1",
+  "brand": "catalog",
+  "name": "Export",
+  "cat": "vodka",
+  "code": "232450",
+  "finish": "30x60",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-070-1.webp",
+  "drawing": "rs-070-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 217.0,
+    "d": 66.0,
+    "fill": 55.0
+   }
+  ]
+ },
+ {
+  "id": "rs-070-2",
+  "brand": "catalog",
+  "name": "Vertical",
+  "cat": "vodka",
+  "code": "230850",
+  "finish": "B-28-2",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-070-2.webp",
+  "drawing": "rs-070-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 283.9,
+    "d": 62.8,
+    "fill": 46.0
+   }
+  ]
+ },
+ {
+  "id": "rs-071-1",
+  "brand": "catalog",
+  "name": "Vertical",
+  "cat": "vodka",
+  "code": "556250",
+  "finish": "30x60",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-071-1.webp",
+  "drawing": "rs-071-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 290.0,
+    "d": 63.4,
+    "fill": null
+   }
+  ]
+ },
+ {
+  "id": "rs-071-2",
+  "brand": "catalog",
+  "name": "Vertical plus",
+  "cat": "vodka",
+  "code": "227850",
+  "finish": "B 31,5",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-071-2.webp",
+  "drawing": "rs-071-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 300.0,
+    "d": 63.0,
+    "fill": 63.0
+   }
+  ]
+ },
+ {
+  "id": "rs-072-1",
+  "brand": "catalog",
+  "name": "Vertical G NNPB",
+  "cat": "vodka",
+  "code": "234350",
+  "finish": "Gualla A110 / КПМ 30",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-072-1.webp",
+  "drawing": "rs-072-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 273.5,
+    "d": 62.7,
+    "fill": 60.0
+   }
+  ]
+ },
+ {
+  "id": "rs-072-2",
+  "brand": "catalog",
+  "name": "Smirnovka NNPB",
+  "cat": "vodka",
+  "code": "225550",
+  "finish": "B 28 Special",
+  "colors": [
+   "#cfcecf"
+  ],
+  "image": "rs-072-2.webp",
+  "drawing": "rs-072-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 260.0,
+    "d": 69.4,
+    "fill": 40.0
+   }
+  ]
+ },
+ {
+  "id": "rs-073-1",
+  "brand": "catalog",
+  "name": "Smirnovka",
+  "cat": "vodka",
+  "code": "231050",
+  "finish": "B 28 Special",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-073-1.webp",
+  "drawing": "rs-073-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 260.0,
+    "d": 69.4,
+    "fill": 40.0
+   }
+  ]
+ },
+ {
+  "id": "rs-073-2",
+  "brand": "catalog",
+  "name": "Kugel",
+  "cat": "vodka",
+  "code": "227950",
+  "finish": "B-28",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-073-2.webp",
+  "drawing": "rs-073-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 263.0,
+    "d": 66.3,
+    "fill": 45.0
+   }
+  ]
+ },
+ {
+  "id": "rs-074-1",
+  "brand": "catalog",
+  "name": "Buz",
+  "cat": "vodka",
+  "code": "557950",
+  "finish": "Gualla A 110/КПМ 30",
+  "colors": [
+   "#cfcecf"
+  ],
+  "image": "rs-074-1.webp",
+  "drawing": "rs-074-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 255.0,
+    "d": 63.5,
+    "fill": 37.0
+   }
+  ]
+ },
+ {
+  "id": "rs-074-2",
+  "brand": "catalog",
+  "name": "Gualla flask",
+  "cat": "vodka",
+  "code": "228150",
+  "finish": "Gualla / КПМ 30",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-074-2.webp",
+  "drawing": "rs-074-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 228.0,
+    "d": 82.4,
+    "fill": 49.0
+   }
+  ]
+ },
+ {
+  "id": "rs-075-1",
+  "brand": "catalog",
+  "name": "Token",
+  "cat": "vodka",
+  "code": "836750",
+  "finish": "В28-1",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-075-1.webp",
+  "drawing": "rs-075-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 197.5,
+    "d": 80.8,
+    "fill": 55.0
+   }
+  ]
+ },
+ {
+  "id": "rs-075-2",
+  "brand": "catalog",
+  "name": "Arctic",
+  "cat": "vodka",
+  "code": "770550",
+  "finish": "B-28-1",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-075-2.webp",
+  "drawing": "rs-075-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 206.4,
+    "d": 75.8,
+    "fill": 48.0
+   }
+  ]
+ },
+ {
+  "id": "rs-076-1",
+  "brand": "catalog",
+  "name": "Export",
+  "cat": "vodka",
+  "code": "232070",
+  "finish": "30x60",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-076-1.webp",
+  "drawing": "rs-076-1-d.webp",
+  "variants": [
+   {
+    "ml": 700,
+    "h": 302.0,
+    "d": 72.3,
+    "fill": 60.0
+   }
+  ]
+ },
+ {
+  "id": "rs-076-2",
+  "brand": "catalog",
+  "name": "Vertical",
+  "cat": "vodka",
+  "code": "221370",
+  "finish": "30x60",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-076-2.webp",
+  "drawing": "rs-076-2-d.webp",
+  "variants": [
+   {
+    "ml": 700,
+    "h": 320.0,
+    "d": 70.5,
+    "fill": 61.0
+   }
+  ]
+ },
+ {
+  "id": "rs-077-1",
+  "brand": "catalog",
+  "name": "Vertical G",
+  "cat": "vodka",
+  "code": "559570",
+  "finish": "Gualla A 110/ КПМ 30",
+  "colors": [
+   "#cfcecf"
+  ],
+  "image": "rs-077-1.webp",
+  "drawing": "rs-077-1-d.webp",
+  "variants": [
+   {
+    "ml": 700,
+    "h": 298.0,
+    "d": 70.6,
+    "fill": 44.0
+   }
+  ]
+ },
+ {
+  "id": "rs-077-2",
+  "brand": "catalog",
+  "name": "Export",
+  "cat": "vodka",
+  "code": "232175",
+  "finish": "30x60",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-077-2.webp",
+  "drawing": "rs-077-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 303.0,
+    "d": 75.3,
+    "fill": 60.0
+   }
+  ]
+ },
+ {
+  "id": "rs-078-1",
+  "brand": "catalog",
+  "name": "Vertical",
+  "cat": "vodka",
+  "code": "229475",
+  "finish": "30x60",
+  "colors": [
+   "#cfcecf"
+  ],
+  "image": "rs-078-1.webp",
+  "drawing": "rs-078-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 320.0,
+    "d": 72.8,
+    "fill": 61.0
+   }
+  ]
+ },
+ {
+  "id": "rs-078-2",
+  "brand": "catalog",
+  "name": "Buz",
+  "cat": "vodka",
+  "code": "228375",
+  "finish": "Gualla A 110/КПМ 30",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-078-2.webp",
+  "drawing": "rs-078-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 276.0,
+    "d": 75.8,
+    "fill": 47.0
+   }
+  ]
+ },
+ {
+  "id": "rs-079-1",
+  "brand": "catalog",
+  "name": "Export",
+  "cat": "vodka",
+  "code": "232299",
+  "finish": "30x60",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-079-1.webp",
+  "drawing": "rs-079-1-d.webp",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 305.0,
+    "d": 86.6,
+    "fill": 60.0
+   }
+  ]
+ },
+ {
+  "id": "rs-079-2",
+  "brand": "catalog",
+  "name": "Vertical",
+  "cat": "vodka",
+  "code": "221699",
+  "finish": "30x60 Capvit",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-079-2.webp",
+  "drawing": "rs-079-2-d.webp",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 335.0,
+    "d": 81.6,
+    "fill": 82.0
+   }
+  ]
+ },
+ {
+  "id": "rs-081-1",
+  "brand": "catalog",
+  "name": "Bordo Europa",
+  "cat": "wine",
+  "code": "527775",
+  "finish": "П29А",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "rs-081-1.webp",
+  "drawing": "rs-081-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 316.0,
+    "d": 76.0,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-081-2",
+  "brand": "catalog",
+  "name": "Conic ultra light",
+  "cat": "wine",
+  "code": "839175",
+  "finish": "П29А",
+  "colors": [
+   "#6c9462",
+   "#cfcece"
+  ],
+  "image": "rs-081-2.webp",
+  "drawing": "rs-081-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 300.0,
+    "d": 78.8,
+    "fill": 75.0
+   }
+  ]
+ },
+ {
+  "id": "rs-082-1",
+  "brand": "catalog",
+  "name": "Conic classic",
+  "cat": "wine",
+  "code": "832975",
+  "finish": "П29А",
+  "colors": [
+   "#68915e",
+   "#cfcece"
+  ],
+  "image": "rs-082-1.webp",
+  "drawing": "rs-082-1-d.webp",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 303.0,
+    "d": 83.7,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-082-2",
+  "brand": "catalog",
+  "name": "Bordo",
+  "cat": "wine",
+  "code": "520119",
+  "finish": "Screw",
+  "colors": [
+   "#6e9664",
+   "#cfcece"
+  ],
+  "image": "rs-082-2.webp",
+  "drawing": "rs-082-2-d.webp",
+  "variants": [
+   {
+    "ml": 187,
+    "h": 183.0,
+    "d": 51.0,
+    "fill": 40.0
+   }
+  ]
+ },
+ {
+  "id": "rs-083-1",
+  "brand": "catalog",
+  "name": "Bordo cork",
+  "cat": "wine",
+  "code": "520238",
+  "finish": "П29А",
+  "colors": [
+   "#69925f",
+   "#cfcece"
+  ],
+  "image": "rs-083-1.webp",
+  "drawing": "rs-083-1-d.webp",
+  "variants": [
+   {
+    "ml": 375,
+    "h": 242.5,
+    "d": null,
+    "fill": 75.0
+   }
+  ]
+ },
+ {
+  "id": "rs-083-2",
+  "brand": "catalog",
+  "name": "Bordo screw",
+  "cat": "wine",
+  "code": "520438",
+  "finish": "Screw",
+  "colors": [
+   "#6b9460",
+   "#cfcece"
+  ],
+  "image": "rs-083-2.webp",
+  "drawing": "rs-083-2-d.webp",
+  "variants": [
+   {
+    "ml": 375,
+    "h": null,
+    "d": 61.8,
+    "fill": 85.0
+   }
+  ]
+ },
+ {
+  "id": "rs-084-1",
+  "brand": "catalog",
+  "name": "Bordo H320",
+  "cat": "wine",
+  "code": "599070",
+  "finish": "П29А",
+  "colors": [
+   "#82ca5f",
+   "#6d9563",
+   "#6a935f"
+  ],
+  "image": "rs-084-1.webp",
+  "drawing": "rs-084-1-d.webp",
+  "variants": [
+   {
+    "ml": 700,
+    "h": 320.0,
+    "d": 70.2,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-084-2",
+  "brand": "catalog",
+  "name": "Bordo Н310",
+  "cat": "wine",
+  "code": "521370",
+  "finish": "П29А",
+  "colors": [
+   "#82c95e",
+   "#cfcece",
+   "#699360"
+  ],
+  "image": "rs-084-2.webp",
+  "drawing": "rs-084-2-d.webp",
+  "variants": [
+   {
+    "ml": 700,
+    "h": 310.0,
+    "d": 71.8,
+    "fill": 80.0
+   }
+  ]
+ },
+ {
+  "id": "rs-085-1",
+  "brand": "catalog",
+  "name": "Reynskaya",
+  "cat": "wine",
+  "code": "599770",
+  "finish": "П29А",
+  "colors": [
+   "#81c95e",
+   "#676bb6",
+   "#d1d0d1"
+  ],
+  "image": "rs-085-1.webp",
+  "drawing": "rs-085-1-d.webp",
+  "variants": [
+   {
+    "ml": 700,
+    "h": 310.0,
+    "d": 74.3,
+    "fill": 75.0
+   }
+  ]
+ },
+ {
+  "id": "rs-085-2",
+  "brand": "catalog",
+  "name": "Bordo H310 light",
+  "cat": "wine",
+  "code": "835370",
+  "finish": "П29А",
+  "colors": [
+   "#81c95e",
+   "#cfcece"
+  ],
+  "image": "rs-085-2.webp",
+  "drawing": "rs-085-2-d.webp",
+  "variants": [
+   {
+    "ml": 700,
+    "h": 310.0,
+    "d": 70.0,
+    "fill": 80.0
+   }
+  ]
+ },
+ {
+  "id": "rs-086-1",
+  "brand": "catalog",
+  "name": "Bordo EVO H293",
+  "cat": "wine",
+  "code": "830570",
+  "finish": "П29А",
+  "colors": [
+   "#6d9562"
+  ],
+  "image": "rs-086-1.webp",
+  "drawing": "rs-086-1-d.webp",
+  "variants": [
+   {
+    "ml": 700,
+    "h": 293.0,
+    "d": 71.4,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-086-2",
+  "brand": "catalog",
+  "name": "Legera light",
+  "cat": "wine",
+  "code": "520470",
+  "finish": "П29А",
+  "colors": [
+   "#6d9562",
+   "#cfcece"
+  ],
+  "image": "rs-086-2.webp",
+  "drawing": "rs-086-2-d.webp",
+  "variants": [
+   {
+    "ml": 700,
+    "h": 293.0,
+    "d": 73.1,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-087-1",
+  "brand": "catalog",
+  "name": "Bordolese",
+  "cat": "wine",
+  "code": "830275",
+  "finish": "П29А",
+  "colors": [
+   "#80c95d",
+   "#6c9462"
+  ],
+  "image": "rs-087-1.webp",
+  "drawing": "rs-087-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 312.0,
+    "d": 73.9,
+    "fill": 78.0
+   }
+  ]
+ },
+ {
+  "id": "rs-087-2",
+  "brand": "catalog",
+  "name": "Bordo VIP",
+  "cat": "wine",
+  "code": "830375",
+  "finish": "П29Б",
+  "colors": [
+   "#80c95e",
+   "#6d9562",
+   "#cfcece"
+  ],
+  "image": "rs-087-2.webp",
+  "drawing": "rs-087-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 310.0,
+    "d": 73.9,
+    "fill": 78.0
+   }
+  ]
+ },
+ {
+  "id": "rs-088-1",
+  "brand": "catalog",
+  "name": "Bordo VIP",
+  "cat": "wine",
+  "code": "833875",
+  "finish": "П29Б",
+  "colors": [
+   "#82c95f",
+   "#6c9461",
+   "#cfcece"
+  ],
+  "image": "rs-088-1.webp",
+  "drawing": "rs-088-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 310.0,
+    "d": 73.9,
+    "fill": 73.0
+   }
+  ]
+ },
+ {
+  "id": "rs-088-2",
+  "brand": "catalog",
+  "name": "Bordo Europa light",
+  "cat": "wine",
+  "code": "837075",
+  "finish": "П29А",
+  "colors": [
+   "#6b9460"
+  ],
+  "image": "rs-088-2.webp",
+  "drawing": "rs-088-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 316.0,
+    "d": 74.7,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-089-1",
+  "brand": "catalog",
+  "name": "Legera",
+  "cat": "wine",
+  "code": "520675",
+  "finish": "П29А",
+  "colors": [
+   "#6d9562"
+  ],
+  "image": "rs-089-1.webp",
+  "drawing": "rs-089-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 293.0,
+    "d": 74.0,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-089-2",
+  "brand": "catalog",
+  "name": "Bordo 304",
+  "cat": "wine",
+  "code": "520475",
+  "finish": "П29А",
+  "colors": [
+   "#6a9360"
+  ],
+  "image": "rs-089-2.webp",
+  "drawing": "rs-089-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 304.0,
+    "d": 74.6,
+    "fill": 75.0
+   }
+  ]
+ },
+ {
+  "id": "rs-090-1",
+  "brand": "catalog",
+  "name": "Conic light",
+  "cat": "wine",
+  "code": "593475",
+  "finish": "П29А",
+  "colors": [
+   "#6a9260",
+   "#cfcece"
+  ],
+  "image": "rs-090-1.webp",
+  "drawing": "rs-090-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 300.0,
+    "d": 79.9,
+    "fill": 75.0
+   }
+  ]
+ },
+ {
+  "id": "rs-090-2",
+  "brand": "catalog",
+  "name": "Bordo 750 ml Screw",
+  "cat": "wine",
+  "code": "526175",
+  "finish": "Screw",
+  "colors": [
+   "#6d9462"
+  ],
+  "image": "rs-090-2.webp",
+  "drawing": "rs-090-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 317.4,
+    "d": null,
+    "fill": 76.0
+   }
+  ]
+ },
+ {
+  "id": "rs-091-1",
+  "brand": "catalog",
+  "name": "Bourgundy",
+  "cat": "wine",
+  "code": "832275",
+  "finish": "П29А",
+  "colors": [
+   "#6b9361",
+   "#cfcfcf"
+  ],
+  "image": "rs-091-1.webp",
+  "drawing": "rs-091-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 296.0,
+    "d": 80.5,
+    "fill": 60.0
+   }
+  ]
+ },
+ {
+  "id": "rs-091-2",
+  "brand": "catalog",
+  "name": "Bourgundy",
+  "cat": "wine",
+  "code": "522275",
+  "finish": "Screw",
+  "colors": [
+   "#6d9562"
+  ],
+  "image": "rs-091-2.webp",
+  "drawing": "rs-091-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 301.4,
+    "d": null,
+    "fill": 64.0
+   }
+  ]
+ },
+ {
+  "id": "rs-092-1",
+  "brand": "catalog",
+  "name": "Bourgundy Classic",
+  "cat": "wine",
+  "code": "838875",
+  "finish": "p-31 h16.8 special D29",
+  "colors": [
+   "#6b9461"
+  ],
+  "image": "rs-092-1.webp",
+  "drawing": "rs-092-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 306.0,
+    "d": 85.7,
+    "fill": 61.0
+   }
+  ]
+ },
+ {
+  "id": "rs-092-2",
+  "brand": "catalog",
+  "name": "Bordo Classic",
+  "cat": "wine",
+  "code": "838575",
+  "finish": "29.5H160 B",
+  "colors": [
+   "#6b9460"
+  ],
+  "image": "rs-092-2.webp",
+  "drawing": "rs-092-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 307.0,
+    "d": 82.5,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-093-1",
+  "brand": "catalog",
+  "name": "Bordo Classic h45",
+  "cat": "wine",
+  "code": "534675",
+  "finish": "29.5H160 B",
+  "colors": [
+   "#6d9564"
+  ],
+  "image": "rs-093-1.webp",
+  "drawing": "rs-093-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 307.0,
+    "d": 82.5,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-093-2",
+  "brand": "catalog",
+  "name": "Bordo cork",
+  "cat": "wine",
+  "code": "834599",
+  "finish": "П29А",
+  "colors": [
+   "#82c95e"
+  ],
+  "image": "rs-093-2.webp",
+  "drawing": "rs-093-2-d.webp",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 300.0,
+    "d": 85.7,
+    "fill": 59.0
+   }
+  ]
+ },
+ {
+  "id": "rs-094-1",
+  "brand": "catalog",
+  "name": "Bordo screw",
+  "cat": "wine",
+  "code": "529499",
+  "finish": "Screw",
+  "colors": [
+   "#6a935f"
+  ],
+  "image": "rs-094-1.webp",
+  "drawing": "rs-094-1-d.webp",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 305.4,
+    "d": 85.7,
+    "fill": 59.0
+   }
+  ]
+ },
+ {
+  "id": "rs-094-2",
+  "brand": "catalog",
+  "name": "Bordo cork",
+  "cat": "wine",
+  "code": "833699",
+  "finish": "П29А",
+  "colors": [
+   "#6c9461"
+  ],
+  "image": "rs-094-2.webp",
+  "drawing": "rs-094-2-d.webp",
+  "variants": [
+   {
+    "ml": 1500,
+    "h": 341.5,
+    "d": 95.9,
+    "fill": 75.0
+   }
+  ]
+ },
+ {
+  "id": "rs-095-1",
+  "brand": "catalog",
+  "name": "Bordo screw",
+  "cat": "wine",
+  "code": "833599",
+  "finish": "Screw",
+  "colors": [
+   "#6d9564"
+  ],
+  "image": "rs-095-1.webp",
+  "drawing": "rs-095-1-d.webp",
+  "variants": [
+   {
+    "ml": 1500,
+    "h": 346.9,
+    "d": 95.9,
+    "fill": 75.0
+   }
+  ]
+ },
+ {
+  "id": "rs-095-2",
+  "brand": "catalog",
+  "name": "Vermouth",
+  "cat": "wine",
+  "code": "530250",
+  "finish": "Screw",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-095-2.webp",
+  "drawing": "rs-095-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 261.9,
+    "d": null,
+    "fill": 53.0
+   }
+  ]
+ },
+ {
+  "id": "rs-096-1",
+  "brand": "catalog",
+  "name": "Vermouth",
+  "cat": "wine",
+  "code": "530199",
+  "finish": "Screw",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "rs-096-1.webp",
+  "drawing": "rs-096-1-d.webp",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 328.0,
+    "d": null,
+    "fill": 73.0
+   }
+  ]
+ },
+ {
+  "id": "rs-096-2",
+  "brand": "catalog",
+  "name": "Bourgundy",
+  "cat": "wine",
+  "code": "839775",
+  "finish": "Screw",
+  "colors": [
+   "#6b9360"
+  ],
+  "image": "rs-096-2.webp",
+  "drawing": "rs-096-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 295.0,
+    "d": null,
+    "fill": 60.0
+   }
+  ]
+ },
+ {
+  "id": "rs-097-1",
+  "brand": "catalog",
+  "name": "Crona",
+  "cat": "wine",
+  "code": "339450",
+  "finish": "A 26 Din 6094 - 1",
+  "colors": [
+   "#6d9563"
+  ],
+  "image": "rs-097-1.webp",
+  "drawing": "rs-097-1-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 258.8,
+    "d": null,
+    "fill": 90.0
+   }
+  ]
+ },
+ {
+  "id": "rs-097-2",
+  "brand": "catalog",
+  "name": "Warshava",
+  "cat": "wine",
+  "code": "513050",
+  "finish": "A 26 Din 6094 - 1",
+  "colors": [
+   "#6d9663"
+  ],
+  "image": "rs-097-2.webp",
+  "drawing": "rs-097-2-d.webp",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 242.0,
+    "d": null,
+    "fill": 50.0
+   }
+  ]
+ },
+ {
+  "id": "rs-098-1",
+  "brand": "catalog",
+  "name": "Legera",
+  "cat": "wine",
+  "code": "835775",
+  "finish": "NF H 35 100",
+  "colors": [
+   "#6c9461",
+   "#cfcece"
+  ],
+  "image": "rs-098-1.webp",
+  "drawing": "rs-098-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 293.0,
+    "d": null,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-098-2",
+  "brand": "catalog",
+  "name": "Legera screw",
+  "cat": "wine",
+  "code": "840275",
+  "finish": "Screw",
+  "colors": [
+   "#6d9564",
+   "#cfcece"
+  ],
+  "image": "rs-098-2.webp",
+  "drawing": "rs-098-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 298.4,
+    "d": null,
+    "fill": 75.0
+   }
+  ]
+ },
+ {
+  "id": "rs-099-1",
+  "brand": "catalog",
+  "name": "Conica light",
+  "cat": "wine",
+  "code": "840175",
+  "finish": "Screw",
+  "colors": [
+   "#6c9562",
+   "#cfcece"
+  ],
+  "image": "rs-099-1.webp",
+  "drawing": "rs-099-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 305.4,
+    "d": null,
+    "fill": 78.0
+   }
+  ]
+ },
+ {
+  "id": "rs-099-2",
+  "brand": "catalog",
+  "name": "Bordo BVS30",
+  "cat": "wine",
+  "code": "840475",
+  "finish": "Screw",
+  "colors": [
+   "#6d9663",
+   "#cfcece"
+  ],
+  "image": "rs-099-2.webp",
+  "drawing": "rs-099-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 308.0,
+    "d": null,
+    "fill": 55.0
+   }
+  ]
+ },
+ {
+  "id": "rs-100-1",
+  "brand": "catalog",
+  "name": "Legera screw",
+  "cat": "wine",
+  "code": "521070",
+  "finish": "30H214 CETIE GME 30.13 BVS",
+  "colors": [
+   "#6b9460",
+   "#cfcece"
+  ],
+  "image": "rs-100-1.webp",
+  "drawing": "rs-100-1-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 298.4,
+    "d": null,
+    "fill": 76.0
+   }
+  ]
+ },
+ {
+  "id": "rs-100-2",
+  "brand": "catalog",
+  "name": "Conica ultra light",
+  "cat": "wine",
+  "code": "840375",
+  "finish": "H160 NF H 35-100",
+  "colors": [
+   "#6a9360",
+   "#d0cfcf"
+  ],
+  "image": "rs-100-2.webp",
+  "drawing": "rs-100-2-d.webp",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 298.0,
+    "d": null,
+    "fill": 70.0
+   }
+  ]
+ },
+ {
+  "id": "rs-103-1",
+  "brand": "catalog",
+  "name": "Infusion common",
+  "cat": "pharma",
+  "code": "720125",
+  "finish": "II ГОСТ 10782- 85",
+  "colors": [
+   "#cfcecf"
+  ],
+  "image": "rs-103-1.webp",
+  "drawing": "rs-103-1-d.webp",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 159.2,
+    "d": 57.4,
+    "fill": 32.0
+   }
+  ]
+ },
+ {
+  "id": "rs-103-2",
+  "brand": "catalog",
+  "name": "Infusion common",
+  "cat": "pharma",
+  "code": "720145",
+  "finish": "II ГОСТ 10782-85",
+  "colors": [
+   "#cfcecf"
+  ],
+  "image": "rs-103-2.webp",
+  "drawing": "rs-103-2-d.webp",
+  "variants": [
+   {
+    "ml": 450,
+    "h": 164.2,
+    "d": 78.4,
+    "fill": 47.0
+   }
+  ]
+ },
+ {
+  "id": "site-jar-200-to58",
+  "name": "200 TO 58",
+  "cat": "jars",
+  "shape": "jar",
+  "finish": "ТО 58",
+  "variants": [
+   {
+    "ml": 200
+   }
+  ],
+  "brand": "catalog",
+  "image": null,
+  "drawing": null
+ },
+ {
+  "id": "site-jar-250-sko58",
+  "name": "250 СКО 58",
+  "cat": "jars",
+  "shape": "jar",
+  "finish": "СКО 58",
+  "variants": [
+   {
+    "ml": 250
+   }
+  ],
+  "brand": "catalog",
+  "image": null,
+  "drawing": null
+ },
+ {
+  "id": "site-bottle-310-to43",
+  "name": "310 TO 43",
+  "cat": "soft",
+  "shape": "bottle",
+  "finish": "ТО 43",
+  "variants": [
+   {
+    "ml": 310
+   }
+  ],
+  "brand": "catalog",
+  "image": null,
+  "drawing": null
+ },
+ {
+  "id": "site-bottle-180-oil",
+  "name": "180 Oil",
+  "cat": "oil",
+  "shape": "bottle",
+  "finish": "Oil neck",
+  "variants": [
+   {
+    "ml": 180
+   }
+  ],
+  "brand": "catalog",
+  "image": null,
+  "drawing": null
+ },
+ {
+  "id": "clo-cork",
+  "brand": "catalog",
+  "name": {
+   "ru": "Корковые пробки",
+   "en": "Cork stoppers",
+   "az": "Mantar tıxaclar"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-cork.jpg",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Натуральные, агломерированные, микроагломерированные, кольматированные и ProCork. Производство Португалия, технология TCA FREE.",
+   "en": "Natural, agglomerated, micro-agglomerated, colmated and ProCork. Made in Portugal with TCA FREE technology.",
+   "az": "Təbii, aqlomerasiyalı, mikroaqlomerasiyalı, kolmatajlı və ProCork. Portuqaliyada istehsal, TCA FREE texnologiyası."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Материал",
+     "en": "Material",
+     "az": "Material"
+    },
+    "v": {
+     "ru": "Пробка",
+     "en": "Cork",
+     "az": "Mantar"
+    }
+   },
+   {
+    "l": {
+     "ru": "Страна",
+     "en": "Country",
+     "az": "Ölkə"
+    },
+    "v": {
+     "ru": "Португалия",
+     "en": "Portugal",
+     "az": "Portuqaliya"
+    }
+   },
+   {
+    "l": {
+     "ru": "Стандарт",
+     "en": "Standard",
+     "az": "Standart"
+    },
+    "v": "ГОСТ 5521-2019"
+   }
+  ]
+ },
+ {
+  "id": "clo-synthetic-wine-stopper",
+  "brand": "catalog",
+  "name": {
+   "ru": "Синтетические винные пробки",
+   "en": "Synthetic wine stoppers",
+   "az": "Sintetik şərab tıxacları"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-synthetic-wine-stopper.png",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Вспененный полимер с силиконовой обработкой для вин со сроком хранения 1–2 года. Подходят для горячего и холодного розлива, не дают «пробкового» привкуса.",
+   "en": "Foamed polymer treated with silicone for wines with a 1–2 year shelf life. Suitable for hot and cold filling; free from cork taint.",
+   "az": "Silikonla işlənmiş köpüklənmiş polimer, 1–2 il saxlama müddətli şərablar üçün. İsti və soyuq dolum üçün uyğundur, mantar dadı vermir."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Размер",
+     "en": "Size",
+     "az": "Ölçü"
+    },
+    "v": "38×24, 35×24, 33×24"
+   },
+   {
+    "l": {
+     "ru": "Материал",
+     "en": "Material",
+     "az": "Material"
+    },
+    "v": {
+     "ru": "Вспененный полимер",
+     "en": "Foamed polymer",
+     "az": "Köpüklənmiş polimer"
+    }
+   },
+   {
+    "l": {
+     "ru": "Срок хранения",
+     "en": "Shelf life",
+     "az": "Saxlama müddəti"
+    },
+    "v": {
+     "ru": "более 3 лет",
+     "en": "over 3 years",
+     "az": "3 ildən çox"
+    }
+   },
+   {
+    "l": {
+     "ru": "Срок производства",
+     "en": "Lead time",
+     "az": "İstehsal müddəti"
+    },
+    "v": {
+     "ru": "30 дней",
+     "en": "30 days",
+     "az": "30 gün"
+    }
+   },
+   {
+    "l": {
+     "ru": "Минимальный заказ",
+     "en": "Minimum order",
+     "az": "Minimum sifariş"
+    },
+    "v": {
+     "ru": "100 000 шт.",
+     "en": "100 000 pcs",
+     "az": "100 000 ədəd"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-flapcap",
+  "brand": "catalog",
+  "name": {
+   "ru": "Колпачок FlapCap для игристых вин",
+   "en": "FlapCap screw cap for sparkling wine",
+   "az": "Köpüklü şərablar üçün FlapCap qapağı"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-flapcap.jpg",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Полимерный винтовой колпачок с контролем вскрытия: сохраняет газ и позволяет закрыть бутылку после открытия.",
+   "en": "Polymer screw cap with tamper evidence: keeps the carbonation and lets you reseal the bottle after opening.",
+   "az": "Açılış nəzarətli polimer vint qapaq: qazı saxlayır və açıldıqdan sonra butulkanı yenidən bağlamağa imkan verir."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Материал",
+     "en": "Material",
+     "az": "Material"
+    },
+    "v": {
+     "ru": "Полиэтилен низкой плотности (LDPE)",
+     "en": "Low-density polyethylene (LDPE)",
+     "az": "Aşağı sıxlıqlı polietilen (LDPE)"
+    }
+   },
+   {
+    "l": {
+     "ru": "Давление",
+     "en": "Pressure",
+     "az": "Təzyiq"
+    },
+    "v": {
+     "ru": "более 6 бар",
+     "en": "above 6 bar",
+     "az": "6 bardan çox"
+    }
+   },
+   {
+    "l": {
+     "ru": "Цвета",
+     "en": "Colours",
+     "az": "Rənglər"
+    },
+    "v": {
+     "ru": "Широкая палитра",
+     "en": "Wide range",
+     "az": "Geniş palitra"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-wax-granules",
+  "brand": "catalog",
+  "name": {
+   "ru": "Бутылочный гранулированный воск",
+   "en": "Granulated bottle wax",
+   "az": "Butulka üçün qranullu mum"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-wax-granules.jpg",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Синтетический сургуч в гранулах: низкая вязкость расплава, не прилипает к стеклу, без статической пыли.",
+   "en": "Synthetic sealing wax in granules: low melt viscosity, does not stick to glass, no static dust.",
+   "az": "Qranul şəklində sintetik mum: aşağı özlülük, şüşəyə yapışmır, statik toz yoxdur."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Гранулы",
+     "en": "Granules",
+     "az": "Qranullar"
+    },
+    "v": "Ø 2–6 mm"
+   },
+   {
+    "l": {
+     "ru": "Минимальный заказ",
+     "en": "Minimum order",
+     "az": "Minimum sifariş"
+    },
+    "v": {
+     "ru": "от 15 кг",
+     "en": "from 15 kg",
+     "az": "15 kq-dan"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-wax-equipment",
+  "brand": "catalog",
+  "name": {
+   "ru": "Оборудование для нанесения воска",
+   "en": "Wax application equipment",
+   "az": "Mum çəkmə avadanlığı"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-wax-equipment.png",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Ручные воскоплавы, полуавтоматические и автоматические линии.",
+   "en": "Manual wax pots, semi-automatic and automatic lines.",
+   "az": "Əl ilə mum qazanları, yarımavtomat və avtomat xətlər."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Ручное",
+     "en": "Manual",
+     "az": "Əl ilə"
+    },
+    "v": {
+     "ru": "котёл 20 или 40 л, до 1000 бутылок за смену",
+     "en": "20 or 40 L pot, up to 1,000 bottles per shift",
+     "az": "20 və ya 40 L qazan, növbədə 1000 butulkaya qədər"
+    }
+   },
+   {
+    "l": {
+     "ru": "Полуавтомат",
+     "en": "Semi-automatic",
+     "az": "Yarımavtomat"
+    },
+    "v": {
+     "ru": "600–1000 бутылок/час",
+     "en": "600–1,000 bottles/hour",
+     "az": "saatda 600–1000 butulka"
+    }
+   },
+   {
+    "l": {
+     "ru": "Автомат",
+     "en": "Automatic",
+     "az": "Avtomat"
+    },
+    "v": {
+     "ru": "3000–6000 бутылок/час",
+     "en": "3,000–6,000 bottles/hour",
+     "az": "saatda 3000–6000 butulka"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-wax-medallions",
+  "brand": "catalog",
+  "name": {
+   "ru": "Декоративные медальки из воска",
+   "en": "Decorative wax medallions",
+   "az": "Mumdan dekorativ medalyonlar"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-wax-medallions.png",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Из полимерного воска; крепятся на пробку полимерным клеем. Возможно изготовление с индивидуальным изображением.",
+   "en": "Made of polymer wax; fixed on the cork with polymer glue. Custom images available.",
+   "az": "Polimer mumdan; tıxaca polimer yapışqanla bərkidilir. Fərdi təsvirlə sifariş mümkündür."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Материал",
+     "en": "Material",
+     "az": "Material"
+    },
+    "v": {
+     "ru": "Полимерный воск",
+     "en": "Polymer wax",
+     "az": "Polimer mum"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-tamper-strips",
+  "brand": "catalog",
+  "name": {
+   "ru": "Ленты контроля вскрытия",
+   "en": "Tamper-evident strips",
+   "az": "Açılış nəzarət lentləri"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-tamper-strips.jpg",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Клеевая лента на рулоне с вощёной бумагой; продаётся вместе с воском.",
+   "en": "Adhesive strip on a roll with waxed paper; sold together with wax.",
+   "az": "Mumlu kağızla rulonda yapışqanlı lent; mumla birlikdə satılır."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Размер",
+     "en": "Size",
+     "az": "Ölçü"
+    },
+    "v": {
+     "ru": "10×7 мм (горло Ø30); 11,7×7 мм (горло Ø32)",
+     "en": "10×7 mm (neck Ø30); 11.7×7 mm (neck Ø32)",
+     "az": "10×7 mm (boğaz Ø30); 11,7×7 mm (boğaz Ø32)"
+    }
+   },
+   {
+    "l": {
+     "ru": "Минимальный заказ",
+     "en": "Minimum order",
+     "az": "Minimum sifariş"
+    },
+    "v": {
+     "ru": "50 000 шт.",
+     "en": "50 000 pcs",
+     "az": "50 000 ədəd"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-sealing-stamps",
+  "brand": "catalog",
+  "name": {
+   "ru": "Сургучные печати",
+   "en": "Sealing wax stamps",
+   "az": "Mum möhürləri"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-sealing-stamps.jpg",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Печати с индивидуальным логотипом.",
+   "en": "Stamps with your own logo.",
+   "az": "Fərdi loqolu möhürlər."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Диаметр",
+     "en": "Diameter",
+     "az": "Diametr"
+    },
+    "v": "Ø24, Ø30 mm"
+   }
+  ]
+ },
+ {
+  "id": "clo-gpi-kendo-tamper",
+  "brand": "catalog",
+  "name": {
+   "ru": "Колпачок ГПИ (Кендо) с контролем вскрытия",
+   "en": "GPI (Kendo) cap with tamper-evident strip",
+   "az": "Açılış nəzarətli GPI (Kendo) qapağı"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-gpi-kendo-tamper.png",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Пищевой пластик со встроенной ленточкой вскрытия — отдельный контроль вскрытия не нужен. Для водки, коньяка, наливок; для вина — с прокладкой «Саранекс».",
+   "en": "Food-grade plastic with an integrated tear strip, so no separate tamper strip is needed. For vodka, cognac and liqueurs; for wine with a Saranex gasket.",
+   "az": "Daxili yırtma lentli qida plastiki, ayrıca nəzarət lenti lazım deyil. Araq, konyak, likör üçün; şərab üçün «Saranex» qasketi ilə."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Материал",
+     "en": "Material",
+     "az": "Material"
+    },
+    "v": {
+     "ru": "Пищевой пластик",
+     "en": "Food-grade plastic",
+     "az": "Qida plastiki"
+    }
+   },
+   {
+    "l": {
+     "ru": "Цвета",
+     "en": "Colours",
+     "az": "Rənglər"
+    },
+    "v": {
+     "ru": "Любой цвет",
+     "en": "Any colour",
+     "az": "İstənilən rəng"
+    }
+   },
+   {
+    "l": {
+     "ru": "Заказ",
+     "en": "Order",
+     "az": "Sifariş"
+    },
+    "v": {
+     "ru": "под заказ",
+     "en": "made to order",
+     "az": "sifarişlə"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-gpi-kendo",
+  "brand": "catalog",
+  "name": {
+   "ru": "Колпачок ГПИ (Кендо) для водки и коньяка",
+   "en": "GPI (Kendo) cap for vodka and cognac",
+   "az": "Araq və konyak üçün GPI (Kendo) qapağı"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-gpi-kendo.png",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Без прокладки, под стандартный венчик горла.",
+   "en": "No gasket; fits a standard bottle neck finish.",
+   "az": "Qasketsiz, standart boğaz vençiki üçün."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Размер",
+     "en": "Size",
+     "az": "Ölçü"
+    },
+    "v": "30.5×14 mm"
+   },
+   {
+    "l": {
+     "ru": "Материал",
+     "en": "Material",
+     "az": "Material"
+    },
+    "v": {
+     "ru": "Пластик",
+     "en": "Plastic",
+     "az": "Plastik"
+    }
+   },
+   {
+    "l": {
+     "ru": "Цвета",
+     "en": "Colours",
+     "az": "Rənglər"
+    },
+    "v": {
+     "ru": "Различные цвета и декор",
+     "en": "Various colours and decoration",
+     "az": "Müxtəlif rənglər və dekor"
+    }
+   },
+   {
+    "l": {
+     "ru": "Минимальный заказ",
+     "en": "Minimum order",
+     "az": "Minimum sifariş"
+    },
+    "v": {
+     "ru": "50 000 шт.",
+     "en": "50 000 pcs",
+     "az": "50 000 ədəd"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-champagne-plastic-stopper",
+  "brand": "catalog",
+  "name": {
+   "ru": "Пластиковая пробка для шампанского",
+   "en": "Plastic champagne stopper",
+   "az": "Şampan üçün plastik tıxac"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-champagne-plastic-stopper.jpg",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Грибковая пробка для шампанского, игристых вин, кобучи и сидра: без «пробкового» привкуса, малые потери газа, лёгкое открывание благодаря внутренним рёбрам.",
+   "en": "Mushroom stopper for champagne, sparkling wine, kombucha and cider: no cork taint, low gas loss, easy removal thanks to internal ribs.",
+   "az": "Şampan, köpüklü şərab, kombuça və sidr üçün göbələk tıxac: mantar dadı yoxdur, qaz itkisi azdır, daxili qabırğalar sayəsində asan açılır."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Материал",
+     "en": "Material",
+     "az": "Material"
+    },
+    "v": {
+     "ru": "Полимер",
+     "en": "Polymer",
+     "az": "Polimer"
+    }
+   },
+   {
+    "l": {
+     "ru": "Минимальный заказ",
+     "en": "Minimum order",
+     "az": "Minimum sifariş"
+    },
+    "v": {
+     "ru": "40 000 шт.",
+     "en": "40 000 pcs",
+     "az": "40 000 ədəd"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-cork-imitation-stopper",
+  "brand": "catalog",
+  "name": {
+   "ru": "Пластиковая пробка «под корку»",
+   "en": "Cork-imitation plastic stopper",
+   "az": "«Mantar kimi» plastik tıxac"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": null,
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Имитирует текстуру и цвет натуральной пробки; 1- и 2-компонентное исполнение.",
+   "en": "Imitates the texture and colour of natural cork; 1- and 2-component versions.",
+   "az": "Təbii mantarın teksturasını və rəngini təqlid edir; 1 və 2 komponentli variantlar."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Цвета",
+     "en": "Colours",
+     "az": "Rənglər"
+    },
+    "v": {
+     "ru": "Белый, бежевый, красный, чёрный; Pantone по запросу",
+     "en": "White, beige, red, black; Pantone on request",
+     "az": "Ağ, bej, qırmızı, qara; Pantone sifarişlə"
+    }
+   },
+   {
+    "l": {
+     "ru": "Минимальный заказ",
+     "en": "Minimum order",
+     "az": "Minimum sifariş"
+    },
+    "v": {
+     "ru": "40 000 шт.",
+     "en": "40 000 pcs",
+     "az": "40 000 ədəd"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-camus-stopper",
+  "brand": "catalog",
+  "name": {
+   "ru": "Пробка Т-образная типа Камю (Brandy Cork)",
+   "en": "T-shaped Camus-type stopper (Brandy Cork)",
+   "az": "Kamyu tipli T-formalı tıxac (Brandy Cork)"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-camus-stopper.jpg",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Для коньяка, бренди, настоек, портвейна, водки, парфюма и масла. Верх: дерево, пластик, алюминий, стекло; ножка: натуральная, агломерированная, микроагломерированная, кольматированная или синтетическая.",
+   "en": "For cognac, brandy, tinctures, port, vodka, perfume and oil. Top: wood, plastic, aluminium or glass; stem: natural, agglomerated, micro-agglomerated, colmated or synthetic.",
+   "az": "Konyak, brendi, dəmləmə, portveyn, araq, ətir və yağ üçün. Üst hissə: taxta, plastik, alüminium, şüşə; ayaq: təbii, aqlomerasiyalı, mikroaqlomerasiyalı, kolmatajlı və ya sintetik."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Размеры (верх / ножка × длина)",
+     "en": "Sizes (top / stem × length)",
+     "az": "Ölçülər (üst / ayaq × uzunluq)"
+    },
+    "v": "26.8 / 9 × 18–19; 27 / 9 × 18.5–19; 28 / 8 × 18–19.5; 29 / 9 × 19–20; 31 / 10 × 19.5–21; 46 / 17 / 24 × 18.5–19.5; 50 / 23 × 18–19; 51 / 18 / 23 × 18–19 mm"
+   },
+   {
+    "l": {
+     "ru": "Декор",
+     "en": "Decoration",
+     "az": "Dekor"
+    },
+    "v": {
+     "ru": "тиснение, фольга, металлизация, лазерная гравировка, лак",
+     "en": "embossing, hot foil, metallization, laser engraving, lacquer",
+     "az": "qabartma, folqa, metallaşdırma, lazer həkk, lak"
+    }
+   },
+   {
+    "l": {
+     "ru": "Минимальный заказ",
+     "en": "Minimum order",
+     "az": "Minimum sifariş"
+    },
+    "v": {
+     "ru": "100 000 шт.",
+     "en": "100 000 pcs",
+     "az": "100 000 ədəd"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-alu-cap-28x17",
+  "brand": "catalog",
+  "name": {
+   "ru": "Алюминиевый колпачок 28×17 с кольцом вскрытия",
+   "en": "Aluminium cap 28×17 with tamper ring",
+   "az": "Açılış halqalı alüminium qapaq 28×17"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": null,
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Для минеральной воды, соков и вина. Также известен как «спринг», «талог», «дорада».",
+   "en": "For mineral water, juices and wine. Also known as “spring”, “talog” or “dorada”.",
+   "az": "Mineral su, şirə və şərab üçün. «Sprinq», «talog» və ya «dorada» kimi də tanınır."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Размер",
+     "en": "Size",
+     "az": "Ölçü"
+    },
+    "v": "28×17 mm"
+   },
+   {
+    "l": {
+     "ru": "Материал",
+     "en": "Material",
+     "az": "Material"
+    },
+    "v": {
+     "ru": "Алюминий, пластиковое кольцо, прокладка",
+     "en": "Aluminium, plastic ring, gasket",
+     "az": "Alüminium, plastik halqa, qasket"
+    }
+   },
+   {
+    "l": {
+     "ru": "Горло",
+     "en": "Neck",
+     "az": "Boğaz"
+    },
+    "v": "B-28-1 (ГОСТ 10117.2-2001), BPF 1716"
+   }
+  ]
+ },
+ {
+  "id": "clo-alu-cap-30x60",
+  "brand": "catalog",
+  "name": {
+   "ru": "Алюминиевый колпачок 30×60 винный",
+   "en": "Aluminium wine cap 30×60",
+   "az": "Alüminium şərab qapağı 30×60"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": null,
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "С двойной прокладкой; для лёгких белых и розовых вин без длительной выдержки. Логотип на боковой поверхности и сверху, защита от подделки УФ-краской.",
+   "en": "With double gasket; for light white and rosé wines without long ageing. Logo on the side and top; UV-ink anti-counterfeit protection.",
+   "az": "İkiqat qasketli; uzun yetişmə tələb etməyən yüngül ağ və roze şərablar üçün. Yan və üst hissədə loqo, UV mürəkkəblə saxtakarlıqdan qorunma."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Размер",
+     "en": "Size",
+     "az": "Ölçü"
+    },
+    "v": "30×60 mm"
+   },
+   {
+    "l": {
+     "ru": "Материал",
+     "en": "Material",
+     "az": "Material"
+    },
+    "v": {
+     "ru": "Алюминий, двойная прокладка",
+     "en": "Aluminium, double gasket",
+     "az": "Alüminium, ikiqat qasket"
+    }
+   }
+  ]
+ },
+ {
+  "id": "clo-aqua-boy",
+  "brand": "catalog",
+  "name": {
+   "ru": "Влагомер Aqua-Boy для пробок",
+   "en": "Aqua-Boy cork moisture meter",
+   "az": "Tıxaclar üçün Aqua-Boy nəmölçən"
+  },
+  "cat": "closures",
+  "shape": "closure",
+  "image": "clo-aqua-boy.jpg",
+  "drawing": null,
+  "variants": [],
+  "desc": {
+   "ru": "Портативный прибор (Германия) для измерения влажности корковых пробок по электропроводности; в комплекте блок, кабель с электродами и кожаный футляр.",
+   "en": "Portable German instrument measuring cork moisture by electrical conductivity; includes the unit, electrode cable and leather case.",
+   "az": "Elektrik keçiriciliyi ilə mantar nəmliyini ölçən portativ cihaz (Almaniya); dəstə cihaz, elektrod kabeli və dəri çexol daxildir."
+  },
+  "specs": [
+   {
+    "l": {
+     "ru": "Диапазон",
+     "en": "Range",
+     "az": "Diapazon"
+    },
+    "v": "2–10 %"
+   },
+   {
+    "l": {
+     "ru": "Вес",
+     "en": "Weight",
+     "az": "Çəki"
+    },
+    "v": "400 g"
+   },
+   {
+    "l": {
+     "ru": "Размер",
+     "en": "Size",
+     "az": "Ölçü"
+    },
+    "v": "11.5×17 cm"
+   },
+   {
+    "l": {
+     "ru": "Гарантия",
+     "en": "Warranty",
+     "az": "Zəmanət"
+    },
+    "v": {
+     "ru": "2 года",
+     "en": "2 years",
+     "az": "2 il"
+    }
+   }
+  ]
+ }
+]
