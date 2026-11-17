@@ -8,6 +8,8 @@ import ProductCard from './components/ProductCard.jsx'
 import ProductModal from './components/ProductModal.jsx'
 
 const PAGE = 48
+const FIRST_IDS = ['cgt-arina', 'cgt-vega', 'cgt-cub', 'rs-081-1', 'rs-092-1'] // Arina, Vega, Cub, Bordo Europa, Bourgundy Classic — shown first
+const firstRank = p => { const i = FIRST_IDS.indexOf(p.id); return i < 0 ? 999 : i }
 const CAT_ORDER = ['spirits', 'vodka', 'wine', 'champagne', 'cognac', 'beer', 'soft', 'water', 'milk', 'oil', 'jars', 'pharma', 'closures']
 
 export default function App() {
@@ -59,7 +61,7 @@ export default function App() {
     const cmp = {
       name: (a, b) => tx(a.name, lang).localeCompare(tx(b.name, lang), lang, { numeric: true }),
       volume: (a, b) => minMl(a) - minMl(b) || tx(a.name, lang).localeCompare(tx(b.name, lang)),
-      cat: (a, b) => CAT_ORDER.indexOf(a.cat) - CAT_ORDER.indexOf(b.cat),
+      cat: (a, b) => firstRank(a) - firstRank(b) || CAT_ORDER.indexOf(a.cat) - CAT_ORDER.indexOf(b.cat),
     }[sort]
     return [...r].sort(cmp)
   }, [q, cat, vol, sort, t, lang])
