@@ -5477,5 +5477,2043 @@
     }
    }
   ]
+ },
+ {
+  "id": "vr-166",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 166",
+   "en": "Type 166",
+   "az": "Tip 166"
+  },
+  "cat": "water",
+  "code": "166",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-166.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-151",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 151",
+   "en": "Type 151",
+   "az": "Tip 151"
+  },
+  "cat": "water",
+  "code": "151",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-151.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-142",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 142",
+   "en": "Type 142",
+   "az": "Tip 142"
+  },
+  "cat": "water",
+  "code": "142",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-142.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-153",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 153",
+   "en": "Type 153",
+   "az": "Tip 153"
+  },
+  "cat": "water",
+  "code": "153",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-153.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-65",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 65",
+   "en": "Type 65",
+   "az": "Tip 65"
+  },
+  "cat": "water",
+  "code": "65",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-65.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-109",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 109",
+   "en": "Type 109",
+   "az": "Tip 109"
+  },
+  "cat": "water",
+  "code": "109",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-109.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-4",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 4",
+   "en": "Type 4",
+   "az": "Tip 4"
+  },
+  "cat": "water",
+  "code": "4",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-4.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-8",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 8",
+   "en": "Type 8",
+   "az": "Tip 8"
+  },
+  "cat": "water",
+  "code": "8",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-8.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-157",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 157",
+   "en": "Type 157",
+   "az": "Tip 157"
+  },
+  "cat": "water",
+  "code": "157",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-157.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-169",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 169",
+   "en": "Type 169",
+   "az": "Tip 169"
+  },
+  "cat": "water",
+  "code": "169",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-169.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-21",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 21",
+   "en": "Type 21",
+   "az": "Tip 21"
+  },
+  "cat": "water",
+  "code": "21",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-21.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-7",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 7",
+   "en": "Type 7",
+   "az": "Tip 7"
+  },
+  "cat": "water",
+  "code": "7",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-7.webp",
+  "variants": []
+ },
+ {
+  "id": "vr-155",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 155",
+   "en": "Type 155",
+   "az": "Tip 155"
+  },
+  "cat": "water",
+  "code": "155",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-155.webp",
+  "finish": "V",
+  "variants": [
+   {
+    "ml": 450,
+    "h": 221.0,
+    "d": 65.3,
+    "mass": 240.0
+   }
+  ]
+ },
+ {
+  "id": "vr-77",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 77",
+   "en": "Type 77",
+   "az": "Tip 77"
+  },
+  "cat": "water",
+  "code": "77",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-77.webp",
+  "finish": "V",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 225.2,
+    "d": 68.7,
+    "mass": 275.0
+   }
+  ]
+ },
+ {
+  "id": "vr-119",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 119",
+   "en": "Type 119",
+   "az": "Tip 119"
+  },
+  "cat": "water",
+  "code": "119",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-119.webp",
+  "finish": "V",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 263.0,
+    "d": 65.1,
+    "mass": 260.0
+   }
+  ]
+ },
+ {
+  "id": "vr-91",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 91",
+   "en": "Type 91",
+   "az": "Tip 91"
+  },
+  "cat": "water",
+  "code": "91",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-91.webp",
+  "finish": "V, КП",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 255.0,
+    "d": 68.0,
+    "mass": 280.0
+   }
+  ]
+ },
+ {
+  "id": "vr-138",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 138",
+   "en": "Type 138",
+   "az": "Tip 138"
+  },
+  "cat": "water",
+  "code": "138",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-138.webp",
+  "finish": "V",
+  "variants": [
+   {
+    "ml": 770,
+    "h": 293.0,
+    "d": 78.0,
+    "mass": 480.0
+   }
+  ]
+ },
+ {
+  "id": "vr-89",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 89",
+   "en": "Type 89",
+   "az": "Tip 89"
+  },
+  "cat": "champagne",
+  "code": "89",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-89.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 292.0,
+    "d": 92.0,
+    "mass": 700.0
+   }
+  ]
+ },
+ {
+  "id": "vr-85",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 85",
+   "en": "Type 85",
+   "az": "Tip 85"
+  },
+  "cat": "champagne",
+  "code": "85",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-85.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 300.0,
+    "d": 91.0,
+    "mass": 650.0
+   }
+  ]
+ },
+ {
+  "id": "vr-106",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 106",
+   "en": "Type 106",
+   "az": "Tip 106"
+  },
+  "cat": "champagne",
+  "code": "106",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-106.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 310.0,
+    "d": 94.1,
+    "mass": 755.0
+   }
+  ]
+ },
+ {
+  "id": "vr-116",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 116",
+   "en": "Type 116",
+   "az": "Tip 116"
+  },
+  "cat": "champagne",
+  "code": "116",
+  "colors": [
+   "#8a8d4f"
+  ],
+  "image": "vr-116.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 300.0,
+    "d": 84.2,
+    "mass": 660.0
+   }
+  ]
+ },
+ {
+  "id": "vr-32",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 32",
+   "en": "Type 32",
+   "az": "Tip 32"
+  },
+  "cat": "champagne",
+  "code": "32",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-32.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 300.0,
+    "d": 82.2,
+    "mass": 640.0
+   }
+  ]
+ },
+ {
+  "id": "vr-160",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 160",
+   "en": "Type 160",
+   "az": "Tip 160"
+  },
+  "cat": "champagne",
+  "code": "160",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-160.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 287.0,
+    "d": 92.0,
+    "mass": 600.0
+   }
+  ]
+ },
+ {
+  "id": "vr-47",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 47",
+   "en": "Type 47",
+   "az": "Tip 47"
+  },
+  "cat": "champagne",
+  "code": "47",
+  "colors": [
+   "#8a8d4f"
+  ],
+  "image": "vr-47.webp",
+  "finish": "BVS 30H60",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 292.8,
+    "d": 91.6,
+    "mass": 635.0
+   }
+  ]
+ },
+ {
+  "id": "vr-159",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 159",
+   "en": "Type 159",
+   "az": "Tip 159"
+  },
+  "cat": "champagne",
+  "code": "159",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-159.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 252.0,
+    "d": 95.5,
+    "mass": 700.0
+   }
+  ]
+ },
+ {
+  "id": "vr-168",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 168",
+   "en": "Type 168",
+   "az": "Tip 168"
+  },
+  "cat": "champagne",
+  "code": "168",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-168.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 302.5,
+    "d": 89.7,
+    "mass": 735.0
+   }
+  ]
+ },
+ {
+  "id": "vr-88",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 88",
+   "en": "Type 88",
+   "az": "Tip 88"
+  },
+  "cat": "champagne",
+  "code": "88",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-88.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 292.0,
+    "d": 94.0,
+    "mass": 830.0
+   }
+  ]
+ },
+ {
+  "id": "vr-133",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 133",
+   "en": "Type 133",
+   "az": "Tip 133"
+  },
+  "cat": "champagne",
+  "code": "133",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-133.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 305.0,
+    "d": 98.5,
+    "mass": 840.0
+   }
+  ]
+ },
+ {
+  "id": "vr-14",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 14",
+   "en": "Type 14",
+   "az": "Tip 14"
+  },
+  "cat": "champagne",
+  "code": "14",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-14.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 300.0,
+    "d": 88.0,
+    "mass": 840.0
+   }
+  ]
+ },
+ {
+  "id": "vr-15",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 15",
+   "en": "Type 15",
+   "az": "Tip 15"
+  },
+  "cat": "champagne",
+  "code": "15",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-15.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 283.0,
+    "d": 97.7,
+    "mass": 850.0
+   }
+  ]
+ },
+ {
+  "id": "vr-125",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 125",
+   "en": "Type 125",
+   "az": "Tip 125"
+  },
+  "cat": "champagne",
+  "code": "125",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-125.webp",
+  "finish": "КПШ",
+  "variants": [
+   {
+    "ml": 1500,
+    "h": 340.0,
+    "d": 116.4,
+    "mass": 1300.0
+   }
+  ]
+ },
+ {
+  "id": "vr-72",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 72",
+   "en": "Type 72",
+   "az": "Tip 72"
+  },
+  "cat": "wine",
+  "code": "72",
+  "colors": [
+   "#8a8d4f"
+  ],
+  "image": "vr-72.webp",
+  "finish": "BVS 28H50",
+  "variants": [
+   {
+    "ml": 375,
+    "h": 239.0,
+    "d": 62.0,
+    "mass": 330.0
+   }
+  ]
+ },
+ {
+  "id": "vr-20",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 20",
+   "en": "Type 20",
+   "az": "Tip 20"
+  },
+  "cat": "wine",
+  "code": "20",
+  "colors": [
+   "#8a8d4f"
+  ],
+  "image": "vr-20.webp",
+  "finish": "II",
+  "variants": [
+   {
+    "ml": 700,
+    "h": 320.0,
+    "d": 70.9,
+    "mass": 445.0
+   }
+  ]
+ },
+ {
+  "id": "vr-167",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 167",
+   "en": "Type 167",
+   "az": "Tip 167"
+  },
+  "cat": "wine",
+  "code": "167",
+  "colors": [
+   "#8a8d4f"
+  ],
+  "image": "vr-167.webp",
+  "finish": "П-29-Б, II",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 310.0,
+    "d": 74.0,
+    "mass": 460.0
+   }
+  ]
+ },
+ {
+  "id": "vr-104",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 104",
+   "en": "Type 104",
+   "az": "Tip 104"
+  },
+  "cat": "wine",
+  "code": "104",
+  "colors": [
+   "#8a8d4f"
+  ],
+  "image": "vr-104.webp",
+  "finish": "П-29-Б, II",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 310.0,
+    "d": 74.9,
+    "mass": 525.0
+   }
+  ]
+ },
+ {
+  "id": "vr-45",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 45",
+   "en": "Type 45",
+   "az": "Tip 45"
+  },
+  "cat": "wine",
+  "code": "45",
+  "colors": [
+   "#8a8d4f"
+  ],
+  "image": "vr-45.webp",
+  "finish": "II",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 299.0,
+    "d": 79.0,
+    "mass": 515.0
+   }
+  ]
+ },
+ {
+  "id": "vr-163-164",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 163 / 164",
+   "en": "Type 163 / 164",
+   "az": "Tip 163 / 164"
+  },
+  "cat": "wine",
+  "code": "163 / 164",
+  "colors": [
+   "#8a8d4f"
+  ],
+  "image": "vr-163-164.webp",
+  "finish": "П-29-Б, BVS 30H60",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 342.6,
+    "d": 77.7,
+    "mass": 560
+   },
+   {
+    "ml": 750,
+    "h": 350,
+    "d": 77.7,
+    "mass": 565
+   }
+  ]
+ },
+ {
+  "id": "vr-152",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 152",
+   "en": "Type 152",
+   "az": "Tip 152"
+  },
+  "cat": "wine",
+  "code": "152",
+  "colors": [
+   "#8a8d4f"
+  ],
+  "image": "vr-152.webp",
+  "finish": "XXXVI",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 295.0,
+    "d": 81.0,
+    "mass": 415.0
+   }
+  ]
+ },
+ {
+  "id": "vr-19",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 19",
+   "en": "Type 19",
+   "az": "Tip 19"
+  },
+  "cat": "wine",
+  "code": "19",
+  "colors": [
+   "#8a8d4f"
+  ],
+  "image": "vr-19.webp",
+  "finish": "XXXVI",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 310.0,
+    "d": 74.5,
+    "mass": 445.0
+   }
+  ]
+ },
+ {
+  "id": "vr-31",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 31",
+   "en": "Type 31",
+   "az": "Tip 31"
+  },
+  "cat": "wine",
+  "code": "31",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-31.webp",
+  "finish": "XXXVI",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 299.0,
+    "d": 79.0,
+    "mass": 510.0
+   }
+  ]
+ },
+ {
+  "id": "vr-170",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 170",
+   "en": "Type 170",
+   "az": "Tip 170"
+  },
+  "cat": "wine",
+  "code": "170",
+  "colors": [
+   "#8a8d4f"
+  ],
+  "image": "vr-170.webp",
+  "finish": "BVS 30H60",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 350.0,
+    "d": 75.4,
+    "mass": 450.0
+   }
+  ]
+ },
+ {
+  "id": "vr-3",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 3",
+   "en": "Type 3",
+   "az": "Tip 3"
+  },
+  "cat": "wine",
+  "code": "3",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-3.webp",
+  "finish": "X, XXXVIII",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 307.0,
+    "d": 82.5,
+    "mass": 850.0
+   }
+  ]
+ },
+ {
+  "id": "vr-61",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 61",
+   "en": "Type 61",
+   "az": "Tip 61"
+  },
+  "cat": "wine",
+  "code": "61",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-61.webp",
+  "finish": "X, XXXVIII",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 303.0,
+    "d": 83.7,
+    "mass": 705.0
+   }
+  ]
+ },
+ {
+  "id": "vr-11",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 11",
+   "en": "Type 11",
+   "az": "Tip 11"
+  },
+  "cat": "wine",
+  "code": "11",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-11.webp",
+  "finish": "XXXVII",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 320.0,
+    "d": 80.4,
+    "mass": 800.0
+   }
+  ]
+ },
+ {
+  "id": "vr-28",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 28",
+   "en": "Type 28",
+   "az": "Tip 28"
+  },
+  "cat": "wine",
+  "code": "28",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-28.webp",
+  "finish": "XXIX",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 306.0,
+    "d": 85.7,
+    "mass": 810.0
+   }
+  ]
+ },
+ {
+  "id": "vr-27",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 27",
+   "en": "Type 27",
+   "az": "Tip 27"
+  },
+  "cat": "wine",
+  "code": "27",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-27.webp",
+  "finish": "IX",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 308.0,
+    "d": 81.1,
+    "mass": 760.0
+   }
+  ]
+ },
+ {
+  "id": "vr-135",
+  "brand": "catalog",
+  "name": {
+   "ru": "Тип 135",
+   "en": "Type 135",
+   "az": "Tip 135"
+  },
+  "cat": "wine",
+  "code": "135",
+  "colors": [
+   "#69925f"
+  ],
+  "image": "vr-135.webp",
+  "finish": "П-29-Б",
+  "variants": [
+   {
+    "ml": 1500,
+    "h": 335.0,
+    "d": 99.0,
+    "mass": 860.0
+   }
+  ]
+ },
+ {
+  "id": "vr-k328",
+  "brand": "catalog",
+  "name": "К328",
+  "cat": "vodka",
+  "code": "К328",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-k328.webp",
+  "finish": "В28Е",
+  "variants": [
+   {
+    "ml": 300,
+    "h": 226.8,
+    "d": 63.0,
+    "mass": 255.0
+   }
+  ]
+ },
+ {
+  "id": "vr-k37",
+  "brand": "catalog",
+  "name": "К37",
+  "cat": "vodka",
+  "code": "К37",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-k37.webp",
+  "finish": "В-28-1",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 209.0,
+    "d": "80.8×54.4",
+    "mass": 410.0
+   }
+  ]
+ },
+ {
+  "id": "vr-k11",
+  "brand": "catalog",
+  "name": "К11",
+  "cat": "vodka",
+  "code": "К11",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-k11.webp",
+  "finish": "В-28-1",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 265.0,
+    "d": 67.5,
+    "mass": 325.0
+   }
+  ]
+ },
+ {
+  "id": "vr-k310",
+  "brand": "catalog",
+  "name": "К310",
+  "cat": "vodka",
+  "code": "К310",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-k310.webp",
+  "finish": "П29Г",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 290.0,
+    "d": 63.8,
+    "mass": 360.0
+   }
+  ]
+ },
+ {
+  "id": "vr-k311",
+  "brand": "catalog",
+  "name": "К311",
+  "cat": "vodka",
+  "code": "К311",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-k311.webp",
+  "finish": "П29Г",
+  "variants": [
+   {
+    "ml": 700,
+    "h": 319.7,
+    "d": 70.5,
+    "mass": 460.0
+   }
+  ]
+ },
+ {
+  "id": "vr-k344",
+  "brand": "catalog",
+  "name": "К344",
+  "cat": "wine",
+  "code": "К344",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-k344.webp",
+  "finish": "В30И",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 310.0,
+    "d": 74.5,
+    "mass": 445.0
+   }
+  ]
+ },
+ {
+  "id": "vr-k343",
+  "brand": "catalog",
+  "name": "К343",
+  "cat": "wine",
+  "code": "К343",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-k343.webp",
+  "finish": "В30И",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 295.0,
+    "d": 81.0,
+    "mass": 415.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb38",
+  "brand": "catalog",
+  "name": "КБ38",
+  "cat": "soft",
+  "code": "КБ38",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb38.webp",
+  "finish": "В43А",
+  "variants": [
+   {
+    "ml": 310,
+    "h": 165.0,
+    "d": 64.5,
+    "mass": 215.0
+   }
+  ]
+ },
+ {
+  "id": "vr-k342",
+  "brand": "catalog",
+  "name": "К342",
+  "cat": "soft",
+  "code": "К342",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-k342.webp",
+  "finish": "В43А",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 246.6,
+    "d": 83.8,
+    "mass": 395.0
+   }
+  ]
+ },
+ {
+  "id": "vr-k229",
+  "brand": "catalog",
+  "name": "К229",
+  "cat": "soft",
+  "code": "К229",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-k229.webp",
+  "finish": "В43А",
+  "variants": [
+   {
+    "ml": 1000,
+    "h": 230.0,
+    "d": 94.0,
+    "mass": 400.0
+   }
+  ]
+ },
+ {
+  "id": "vr-k280",
+  "brand": "catalog",
+  "name": "K280",
+  "cat": "soft",
+  "code": "K280",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-k280.webp",
+  "finish": "В43А",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 166.5,
+    "d": 60.0,
+    "mass": 175.0
+   }
+  ]
+ },
+ {
+  "id": "vr-k277",
+  "brand": "catalog",
+  "name": "K277",
+  "cat": "soft",
+  "code": "K277",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-k277.webp",
+  "finish": "В43А",
+  "variants": [
+   {
+    "ml": 750,
+    "h": 230.0,
+    "d": 83.5,
+    "mass": 370.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb87",
+  "brand": "catalog",
+  "name": "КБ87",
+  "cat": "jars",
+  "code": "КБ87",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb87.webp",
+  "finish": "В48А",
+  "variants": [
+   {
+    "ml": 120,
+    "h": 85.0,
+    "d": 53.0,
+    "mass": 110.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb294",
+  "brand": "catalog",
+  "name": "КБ294",
+  "cat": "jars",
+  "code": "КБ294",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb294.webp",
+  "finish": "В53В",
+  "variants": [
+   {
+    "ml": 190,
+    "h": 100.5,
+    "d": 61.8,
+    "mass": 128.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb13",
+  "brand": "catalog",
+  "name": "КБ13",
+  "cat": "jars",
+  "code": "КБ13",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb13.webp",
+  "finish": "В58А",
+  "variants": [
+   {
+    "ml": 200,
+    "h": 100.0,
+    "d": 60.0,
+    "mass": 128.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb190",
+  "brand": "catalog",
+  "name": "КБ190",
+  "cat": "jars",
+  "code": "КБ190",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb190.webp",
+  "finish": "В58А",
+  "variants": [
+   {
+    "ml": 204,
+    "h": 104.0,
+    "d": 62.0,
+    "mass": 135.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb7",
+  "brand": "catalog",
+  "name": "КБ7",
+  "cat": "jars",
+  "code": "КБ7",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb7.webp",
+  "finish": "В58А",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 99.0,
+    "d": 71.0,
+    "mass": 128.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb152",
+  "brand": "catalog",
+  "name": "КБ152",
+  "cat": "jars",
+  "code": "КБ152",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb152.webp",
+  "finish": "В66А",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 81.0,
+    "d": "72×72",
+    "mass": 155.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb140",
+  "brand": "catalog",
+  "name": "КБ140",
+  "cat": "jars",
+  "code": "КБ140",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb140.webp",
+  "finish": "В82А",
+  "variants": [
+   {
+    "ml": 390,
+    "h": 88.5,
+    "d": "86.4×86.4",
+    "mass": 225.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb296",
+  "brand": "catalog",
+  "name": "КБ296",
+  "cat": "jars",
+  "code": "КБ296",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb296.webp",
+  "finish": "III-4-66-1",
+  "variants": [
+   {
+    "ml": 240,
+    "h": 92.5,
+    "d": "70.6×70.6",
+    "mass": 170.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb212",
+  "brand": "catalog",
+  "name": "КБ212",
+  "cat": "jars",
+  "code": "КБ212",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb212.webp",
+  "finish": "В82А",
+  "variants": [
+   {
+    "ml": 350,
+    "h": 88.2,
+    "d": 87.0,
+    "mass": 190.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb215",
+  "brand": "catalog",
+  "name": "КБ215",
+  "cat": "jars",
+  "code": "КБ215",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb215.webp",
+  "finish": "В82Б",
+  "variants": [
+   {
+    "ml": 370,
+    "h": 73.5,
+    "d": "88×88",
+    "mass": 250.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb149",
+  "brand": "catalog",
+  "name": "КБ149",
+  "cat": "jars",
+  "code": "КБ149",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb149.webp",
+  "finish": "B66А",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 90.5,
+    "d": 72.0,
+    "mass": 133.0
+   }
+  ]
+ },
+ {
+  "id": "vr-i-58-250",
+  "brand": "catalog",
+  "name": "I-58-250",
+  "cat": "jars",
+  "code": "I-58-250",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-i-58-250.webp",
+  "finish": "I-58",
+  "variants": [
+   {
+    "ml": 250,
+    "h": 99.0,
+    "d": 70.0,
+    "mass": 128.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb147",
+  "brand": "catalog",
+  "name": "КБ147",
+  "cat": "jars",
+  "code": "КБ147",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb147.webp",
+  "finish": "В66А",
+  "variants": [
+   {
+    "ml": 340,
+    "h": 120.5,
+    "d": 74.0,
+    "mass": 190.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb6",
+  "brand": "catalog",
+  "name": "КБ6",
+  "cat": "jars",
+  "code": "КБ6",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb6.webp",
+  "finish": "В66А",
+  "variants": [
+   {
+    "ml": 350,
+    "h": 125.0,
+    "d": 72.0,
+    "mass": 190.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb101",
+  "brand": "catalog",
+  "name": "КБ101",
+  "cat": "jars",
+  "code": "КБ101",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb101.webp",
+  "finish": "В66А",
+  "variants": [
+   {
+    "ml": 475,
+    "h": 157.0,
+    "d": 76.0,
+    "mass": 250.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb165",
+  "brand": "catalog",
+  "name": "КБ165",
+  "cat": "jars",
+  "code": "КБ165",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb165.webp",
+  "finish": "В82Б",
+  "variants": [
+   {
+    "ml": 440,
+    "h": 104.5,
+    "d": 89.7,
+    "mass": 250.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb64",
+  "brand": "catalog",
+  "name": "КБ64",
+  "cat": "jars",
+  "code": "КБ64",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb64.webp",
+  "finish": "В66А",
+  "variants": [
+   {
+    "ml": 480,
+    "h": 127.0,
+    "d": 84.0,
+    "mass": 235.0
+   }
+  ]
+ },
+ {
+  "id": "vr-i-82-500",
+  "brand": "catalog",
+  "name": "I-82-500",
+  "cat": "jars",
+  "code": "I-82-500",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-i-82-500.webp",
+  "finish": "I-82",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 117.0,
+    "d": 88.0,
+    "mass": 240.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb70",
+  "brand": "catalog",
+  "name": "КБ70",
+  "cat": "jars",
+  "code": "КБ70",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb70.webp",
+  "finish": "В66А",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 160.0,
+    "d": 74.0,
+    "mass": 250.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb288",
+  "brand": "catalog",
+  "name": "КБ288",
+  "cat": "jars",
+  "code": "КБ288",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb288.webp",
+  "finish": "В66А",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 155.0,
+    "d": 78.8,
+    "mass": 250.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb237",
+  "brand": "catalog",
+  "name": "КБ237",
+  "cat": "jars",
+  "code": "КБ237",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb237.webp",
+  "finish": "В82А",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 112.0,
+    "d": 87.5,
+    "mass": 230.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb94",
+  "brand": "catalog",
+  "name": "КБ94",
+  "cat": "jars",
+  "code": "КБ94",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb94.webp",
+  "finish": "III-I-82-1",
+  "variants": [
+   {
+    "ml": 500,
+    "h": 103.5,
+    "d": 100.0,
+    "mass": 260.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb252",
+  "brand": "catalog",
+  "name": "КБ252",
+  "cat": "jars",
+  "code": "КБ252",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb252.webp",
+  "finish": "В82Б",
+  "variants": [
+   {
+    "ml": 580,
+    "h": 126.5,
+    "d": 87.5,
+    "mass": 245.0
+   }
+  ]
+ },
+ {
+  "id": "vr-i-82-650",
+  "brand": "catalog",
+  "name": "I-82-650",
+  "cat": "jars",
+  "code": "I-82-650",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-i-82-650.webp",
+  "finish": "I-82",
+  "variants": [
+   {
+    "ml": 650,
+    "h": 140.0,
+    "d": 88.0,
+    "mass": 285.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb22",
+  "brand": "catalog",
+  "name": "КБ22",
+  "cat": "jars",
+  "code": "КБ22",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb22.webp",
+  "finish": "В82А",
+  "variants": [
+   {
+    "ml": 650,
+    "h": 142.0,
+    "d": 88.0,
+    "mass": 290.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb209",
+  "brand": "catalog",
+  "name": "КБ209",
+  "cat": "jars",
+  "code": "КБ209",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb209.webp",
+  "finish": "В82А",
+  "variants": [
+   {
+    "ml": 670,
+    "h": 145.0,
+    "d": 92.0,
+    "mass": 325.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb287",
+  "brand": "catalog",
+  "name": "КБ287",
+  "cat": "jars",
+  "code": "КБ287",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb287.webp",
+  "finish": "В82Б",
+  "variants": [
+   {
+    "ml": 670,
+    "h": 134.5,
+    "d": 94.4,
+    "mass": 280.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb3",
+  "brand": "catalog",
+  "name": "КБ3",
+  "cat": "jars",
+  "code": "КБ3",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb3.webp",
+  "finish": "В82А",
+  "variants": [
+   {
+    "ml": 720,
+    "h": 143.5,
+    "d": 95.0,
+    "mass": 325.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb166",
+  "brand": "catalog",
+  "name": "КБ166",
+  "cat": "jars",
+  "code": "КБ166",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb166.webp",
+  "finish": "В82Б",
+  "variants": [
+   {
+    "ml": 900,
+    "h": 165.0,
+    "d": 99.2,
+    "mass": 420.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb30",
+  "brand": "catalog",
+  "name": "КБ30",
+  "cat": "jars",
+  "code": "КБ30",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb30.webp",
+  "finish": "В82А",
+  "variants": [
+   {
+    "ml": 950,
+    "h": 170.0,
+    "d": 100.0,
+    "mass": 400.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb63",
+  "brand": "catalog",
+  "name": "КБ63",
+  "cat": "jars",
+  "code": "КБ63",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb63.webp",
+  "finish": "I-82",
+  "variants": [
+   {
+    "ml": 950,
+    "h": 164.0,
+    "d": 100.0,
+    "mass": 390.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb80",
+  "brand": "catalog",
+  "name": "КБ80",
+  "cat": "jars",
+  "code": "КБ80",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb80.webp",
+  "finish": "III-7-100",
+  "variants": [
+   {
+    "ml": 950,
+    "h": 144.0,
+    "d": 108.0,
+    "mass": 405.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb79",
+  "brand": "catalog",
+  "name": "КБ79",
+  "cat": "jars",
+  "code": "КБ79",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb79.webp",
+  "finish": "III-7-100",
+  "variants": [
+   {
+    "ml": 1500,
+    "h": 205.0,
+    "d": 113.0,
+    "mass": 600.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb167",
+  "brand": "catalog",
+  "name": "КБ167",
+  "cat": "jars",
+  "code": "КБ167",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb167.webp",
+  "finish": "В82А",
+  "variants": [
+   {
+    "ml": 1500,
+    "h": 181.5,
+    "d": 122.7,
+    "mass": 570.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb211",
+  "brand": "catalog",
+  "name": "КБ211",
+  "cat": "jars",
+  "code": "КБ211",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb211.webp",
+  "finish": "В82А",
+  "variants": [
+   {
+    "ml": 1800,
+    "h": 239.0,
+    "d": 118.0,
+    "mass": 655.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb2",
+  "brand": "catalog",
+  "name": "КБ2",
+  "cat": "jars",
+  "code": "КБ2",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb2.webp",
+  "finish": "В100А",
+  "variants": [
+   {
+    "ml": 3000,
+    "h": 236.0,
+    "d": 149.0,
+    "mass": 890.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb169",
+  "brand": "catalog",
+  "name": "КБ169",
+  "cat": "jars",
+  "code": "КБ169",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb169.webp",
+  "finish": "В82А",
+  "variants": [
+   {
+    "ml": 3000,
+    "h": 235.0,
+    "d": 152.4,
+    "mass": 905.0
+   }
+  ]
+ },
+ {
+  "id": "vr-kb249",
+  "brand": "catalog",
+  "name": "КБ249",
+  "cat": "jars",
+  "code": "КБ249",
+  "colors": [
+   "#cfcece"
+  ],
+  "image": "vr-kb249.webp",
+  "finish": "В100А",
+  "variants": [
+   {
+    "ml": 3000,
+    "h": 242.5,
+    "d": 145.0,
+    "mass": 880.0
+   }
+  ]
  }
 ]
