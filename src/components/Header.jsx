@@ -8,7 +8,7 @@ export default function Header({ lang, setLang, langs }) {
           <img src="./brand/logo-mark.png" alt="" />
           <span><b>CASPIAN GLOBAL</b><em>TRADING</em></span>
         </a>
-        <div className="langs">
+        <div className="langs notranslate" translate="no">
           {langs.map(l => <button key={l} className={l === lang ? 'on' : ''} onClick={() => setLang(l)}>{l.toUpperCase()}</button>)}
         </div>
       </div>
