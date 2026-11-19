@@ -153,7 +153,7 @@
   "id": "cgt-evro-350",
   "brand": "caspian",
   "name": "EVRO 350",
-  "cat": "spirits",
+  "cat": "jars",
   "tier": "original",
   "image": "cg-evro-350.webp",
   "variants": [
@@ -651,7 +651,7 @@
   "id": "cgt-evro-235",
   "brand": "caspian",
   "name": "EVRO 235",
-  "cat": "spirits",
+  "cat": "jars",
   "tier": "original",
   "image": "cg-evro-235.webp",
   "variants": [
@@ -3036,7 +3036,7 @@
   "id": "rs-064-1",
   "brand": "catalog",
   "name": "Stakan",
-  "cat": "vodka",
+  "cat": "soft",
   "code": "220310",
   "finish": "Strip 62",
   "colors": [
