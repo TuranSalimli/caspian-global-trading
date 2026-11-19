@@ -102,10 +102,11 @@ input[type=search]::-webkit-search-cancel-button{display:none}
  .meta{padding:10px 12px 12px;gap:5px}.meta h3{font-size:15px}.cat{font-size:10.5px}.vols span{font-size:11px;padding:2px 6px}.desc{-webkit-line-clamp:2}
  .badge{font-size:9.5px;top:8px;left:8px;padding:3px 6px}
  .overlay{padding:0;align-items:flex-end}
- .modal{grid-template-columns:1fr;max-height:94vh;border-radius:20px 20px 0 0;animation:sheet .22s ease-out}
+ .modal{display:flex;flex-direction:column;max-height:94vh;max-height:94dvh;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;border-radius:20px 20px 0 0;animation:sheet .22s ease-out}
  @keyframes sheet{from{transform:translateY(40px);opacity:0}}
- .close{position:sticky;top:10px;right:auto;justify-self:end;margin:10px 10px -46px 0}
- .modal-img{min-height:0;height:260px;padding:20px}.modal-img img{max-height:100%}
+ .close{position:sticky;top:10px;right:auto;align-self:flex-end;flex:0 0 auto;margin:10px 10px -46px 0}
+ .modal-img{flex:0 0 auto;min-height:0;height:260px;padding:20px;overflow:hidden}.modal-img img,.modal-img .ph{max-width:100%;max-height:100%;height:auto}.modal-img .ph{height:100%}
+ .modal-body{flex:0 0 auto}
  .modal-body{padding:18px 16px 24px}.modal-body h2{font-size:24px}
  .spec{font-size:13px}.spec th{font-size:10.5px;padding:6px 6px}.spec td{padding:8px 6px}
  .row{flex-direction:column;align-items:flex-start;gap:4px}.row b{text-align:left;max-width:100%}
